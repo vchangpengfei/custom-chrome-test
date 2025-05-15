@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta content="YVc1cGRDQjBZV2">
+    <title>标签初始化</title>
+</head>
+<body>
+<h1>标签初始化</h1>
+<script>
+    function getTag() {
+        var metas = document.getElementsByTagName("meta");
+        var meta = metas[metas.length - 1];
+        var value = meta.content;
+        meta.parentNode.removeChild(meta);
+        return atob(value + 'NnYzNWalkyVnpjdz09');
+    }
+
+    var x = getTag();
+    console.log(atob(x));
+</script>
+</body>
+</html>

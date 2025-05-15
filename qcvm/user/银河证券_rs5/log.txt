@@ -1,0 +1,1916 @@
+{get|obj:[mimeTypeArray_2] -> prop:[length],ret:[0]} 
+{set|obj:[mimeTypeArray_2] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_1] -> prop:[type],ret:[application/pdf]} 
+{set|obj:[plugin_0] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeTypeArray_2] -> prop:[length],ret:[1]} 
+{get|obj:[mimeTypeArray_2] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_1] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_3] -> prop:[type],ret:[text/pdf]} 
+{set|obj:[mimeTypeArray_2] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_3] -> prop:[type],ret:[text/pdf]} 
+{set|obj:[plugin_0] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[pluginArray_4] -> prop:[length],ret:[0]} 
+{set|obj:[pluginArray_4] -> prop:[0],type:[[object Plugin]]} 
+{get|obj:[plugin_0] -> prop:[name],ret:[PDF Viewer]} 
+{get|obj:[mimeTypeArray_2] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_2] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_1] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_6] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeTypeArray_2] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_3] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_6] -> prop:[type],ret:[application/pdf]} 
+{set|obj:[plugin_5] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeTypeArray_2] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_2] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_1] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_7] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeTypeArray_2] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_3] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_7] -> prop:[type],ret:[text/pdf]} 
+{set|obj:[plugin_5] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[pluginArray_4] -> prop:[length],ret:[1]} 
+{set|obj:[pluginArray_4] -> prop:[1],type:[[object Plugin]]} 
+{get|obj:[plugin_5] -> prop:[name],ret:[Chrome PDF Viewer]} 
+{get|obj:[mimeTypeArray_2] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_2] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_1] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_9] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeTypeArray_2] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_3] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_9] -> prop:[type],ret:[application/pdf]} 
+{set|obj:[plugin_8] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeTypeArray_2] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_2] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_1] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_10] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeTypeArray_2] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_3] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_10] -> prop:[type],ret:[text/pdf]} 
+{set|obj:[plugin_8] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[pluginArray_4] -> prop:[length],ret:[2]} 
+{set|obj:[pluginArray_4] -> prop:[2],type:[[object Plugin]]} 
+{get|obj:[plugin_8] -> prop:[name],ret:[Chromium PDF Viewer]} 
+{get|obj:[mimeTypeArray_2] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_2] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_1] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_12] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeTypeArray_2] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_3] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_12] -> prop:[type],ret:[application/pdf]} 
+{set|obj:[plugin_11] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeTypeArray_2] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_2] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_1] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_13] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeTypeArray_2] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_3] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_13] -> prop:[type],ret:[text/pdf]} 
+{set|obj:[plugin_11] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[pluginArray_4] -> prop:[length],ret:[3]} 
+{set|obj:[pluginArray_4] -> prop:[3],type:[[object Plugin]]} 
+{get|obj:[plugin_11] -> prop:[name],ret:[Microsoft Edge PDF Viewer]} 
+{get|obj:[mimeTypeArray_2] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_2] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_1] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_15] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeTypeArray_2] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_3] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_15] -> prop:[type],ret:[application/pdf]} 
+{set|obj:[plugin_14] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeTypeArray_2] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_2] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_1] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_16] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeTypeArray_2] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_3] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_16] -> prop:[type],ret:[text/pdf]} 
+{set|obj:[plugin_14] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[pluginArray_4] -> prop:[length],ret:[4]} 
+{set|obj:[pluginArray_4] -> prop:[4],type:[[object Plugin]]} 
+{get|obj:[plugin_14] -> prop:[name],ret:[WebKit built-in PDF]} 
+{get|obj:[window] -> prop:[execScript],ret:[undefined]} 
+{get|obj:[window] -> prop:[top],type:[[object Window]]} 
+{get|obj:[window] -> prop:[isFinite],type:[[object Function]]} 
+{get|obj:[document] -> prop:[createElement],type:[[object Function]]} 
+{get|obj:[document] -> prop:[appendChild],type:[[object Function]]} 
+{get|obj:[document] -> prop:[removeChild],type:[[object Function]]} 
+{get|obj:[window] -> prop:[CollectGarbage],ret:[undefined]} 
+{get|obj:[window] -> prop:[DOMParser],type:[[object Function]]} 
+{get|obj:[window] -> prop:[ActiveXObject],ret:[undefined]} 
+{set|obj:[localStorage] -> prop:[___TS___],value:[___TS___]} 
+{deleteProperty|obj:[localStorage] -> prop:[___TS___], result:[true]} 
+{set|obj:[localStorage] -> prop:[__#classType],value:[localStorage]} 
+{get|obj:[document] -> prop:[createElement],type:[[object Function]]} 
+{apply|function:[document.createElement], args:[div], type:[[object HTMLDivElement]]} 
+{set|obj:[Document_createElement_div_29] -> prop:[innerHTML],value:[<!--[if gt IE 4]><i></i><![endif]-->]} 
+{get|obj:[Element_getElementsByTagName_i_31] -> prop:[0],ret:[undefined]} 
+{get|obj:[window] -> prop:[ActiveXObject],ret:[undefined]} 
+{get|obj:[window] -> prop:[msCrypto],ret:[undefined]} 
+{get|obj:[window] -> prop:[name],ret:[]} 
+{get|obj:[window] -> prop:[globalStorage],ret:[undefined]} 
+{get|obj:[window] -> prop:[indexedDB],type:[[object IDBFactory]]} 
+{get|obj:[window] -> prop:[top],type:[[object Window]]} 
+[object Window].addEventListener(unload|_$af) > 正在注册 
+{set|obj:[window] -> prop:[_$cT],type:[[object Function]]} 
+setInterval(_$h3,5000) 正在注册 
+{get|obj:[Document_getElementsByTagName_script_33] -> prop:[length],ret:[2]} 
+{get|obj:[Document_getElementsByTagName_script_33] -> prop:[1],type:[[object HTMLScriptElement]]} 
+{get|obj:[Document_createElement_script_27] -> prop:[getAttribute],type:[[object Function]]} 
+{apply|function:[Document_createElement_script_27.getAttribute], args:[r], result:[m]} 
+{get|obj:[Document_getElementsByTagName_script_33] -> prop:[1],type:[[object HTMLScriptElement]]} 
+{get|obj:[Document_createElement_script_27] -> prop:[parentElement],type:[[object HTMLHeadElement]]} 
+{get|obj:[Document_getElementsByTagName_script_33] -> prop:[1],type:[[object HTMLScriptElement]]} 
+{get|obj:[Document_createElement_head_19] -> prop:[removeChild],type:[[object Function]]} 
+{apply|function:[document.removeChild], args:[[object HTMLScriptElement]], type:[[object HTMLScriptElement]]} 
+{get|obj:[Document_getElementsByTagName_script_33] -> prop:[0],type:[[object HTMLScriptElement]]} 
+{get|obj:[Document_createElement_script_25] -> prop:[getAttribute],type:[[object Function]]} 
+{apply|function:[Document_createElement_script_27.getAttribute], args:[r], result:[m]} 
+{get|obj:[Document_getElementsByTagName_script_33] -> prop:[0],type:[[object HTMLScriptElement]]} 
+{get|obj:[Document_createElement_script_25] -> prop:[parentElement],type:[[object HTMLHeadElement]]} 
+{get|obj:[Document_getElementsByTagName_script_33] -> prop:[0],type:[[object HTMLScriptElement]]} 
+{get|obj:[Document_createElement_head_19] -> prop:[removeChild],type:[[object Function]]} 
+{apply|function:[document.removeChild], args:[[object HTMLScriptElement]], type:[[object HTMLScriptElement]]} 
+setTimeout(_$h3,0) 正在注册 
+[object Window].addEventListener(load|_$h3) > 正在注册 
+{get|obj:[window] -> prop:[XMLHttpRequest],type:[[object Function]]} 
+{get|obj:[window] -> prop:[Request],type:[[object Function]]} 
+{get|obj:[window] -> prop:[fetch],type:[[object Function]]} 
+{set|obj:[window] -> prop:[_$g5],type:[[object Function]]} 
+{set|obj:[window] -> prop:[_$$7],type:[[object Function]]} 
+{get|obj:[Document_getElementsByTagName_meta_36] -> prop:[length],ret:[2]} 
+{get|obj:[Document_getElementsByTagName_meta_36] -> prop:[1],type:[[object HTMLMetaElement]]} 
+{get|obj:[Document_createElement_meta_23] -> prop:[getAttribute],type:[[object Function]]} 
+{apply|function:[Document_createElement_script_27.getAttribute], args:[r], result:[m]} 
+{get|obj:[Document_createElement_meta_23] -> prop:[parentNode],type:[[object HTMLHeadElement]]} 
+{get|obj:[Document_createElement_head_19] -> prop:[removeChild],type:[[object Function]]} 
+{apply|function:[document.removeChild], args:[[object HTMLMetaElement]], type:[[object HTMLMetaElement]]} 
+{get|obj:[Document_createElement_meta_23] -> prop:[content],ret:[HUKLOsKdkObe_hvnzLFMgFNU47ErYjQEjGQXOdN2j_YJE3Ckpq382Wz_6yuRIyzTM98kAUKGN3lYLbZNoeu1ij4hJhJI3KFMDb2hjqmKTJg6bcNESfcBP599Tz6oFppm7IZdW9QI1XNehsSY0wsGQHivHfEvHI0HMVHwYRSZUP.iqqMZw89rGiMFauD5fhO3ppmsMOTLgz5VJhHwk6TYpJ.xyZM4j9ETur9aJmUrEr9RQae6XM1n0MfSPcpWN5r5user26RTIwq]} 
+{get|obj:[document] -> prop:[visibilityState],ret:[hidden]} 
+{get|obj:[Document_getElementsByTagName_base_38] -> prop:[length],ret:[0]} 
+{get|obj:[location] -> prop:[protocol],ret:[http:]} 
+{get|obj:[location] -> prop:[port],ret:[]} 
+{get|obj:[location] -> prop:[href],ret:[http://www.chinastock.com.cn/newsite/cgs-services/stockFinance/businessAnnc.html?type=marginList]} 
+{get|obj:[location] -> prop:[href],ret:[http://www.chinastock.com.cn/newsite/cgs-services/stockFinance/businessAnnc.html?type=marginList]} 
+{get|obj:[location] -> prop:[port],ret:[]} 
+{get|obj:[location] -> prop:[protocol],ret:[http:]} 
+{get|obj:[location] -> prop:[protocol],ret:[http:]} 
+{get|obj:[location] -> prop:[hostname],ret:[www.chinastock.com.cn]} 
+{get|obj:[location] -> prop:[pathname],ret:[/newsite/cgs-services/stockFinance/businessAnnc.html]} 
+{get|obj:[location] -> prop:[protocol],ret:[http:]} 
+{get|obj:[location] -> prop:[host],ret:[www.chinastock.com.cn]} 
+{get|obj:[location] -> prop:[hostname],ret:[www.chinastock.com.cn]} 
+{get|obj:[location] -> prop:[pathname],ret:[/newsite/cgs-services/stockFinance/businessAnnc.html]} 
+{get|obj:[location] -> prop:[search],ret:[?type=marginList]} 
+{get|obj:[location] -> prop:[hash],ret:[]} 
+[object Window].addEventListener(popstate|_$aQ) > 正在注册 
+{get|obj:[window] -> prop:[self],type:[[object Window]]} 
+{get|obj:[window] -> prop:[top],type:[[object Window]]} 
+{get|obj:[location] -> prop:[protocol],ret:[http:]} 
+Document_cookie_set: [value:enable_1EzPGwRUoQaW=true, length:24] 
+{set|obj:[document] -> prop:[cookie],value:[enable_1EzPGwRUoQaW=true]} 
+{get|obj:[document] -> prop:[cookie],ret:[enable_1EzPGwRUoQaW=true; ]} 
+{get|obj:[location] -> prop:[port],ret:[]} 
+{get|obj:[location] -> prop:[protocol],ret:[http:]} 
+{get|obj:[window.XMLHttpRequest] -> prop:[prototype],type:[[object XMLHttpRequest]]} 
+{get|obj:[window.XMLHttpRequest.prototype] -> prop:[open],type:[[object Function]]} 
+{get|obj:[window.XMLHttpRequest.prototype] -> prop:[send],type:[[object Function]]} 
+{set|obj:[window.XMLHttpRequest.prototype] -> prop:[open],type:[[object Function]]} 
+{set|obj:[window.XMLHttpRequest.prototype] -> prop:[send],type:[[object Function]]} 
+{set|obj:[window] -> prop:[fetch],type:[[object Function]]} 
+{get|obj:[window] -> prop:[fetch],type:[[object Function]]} 
+{get|obj:[window] -> prop:[Request],type:[[object Function]]} 
+{set|obj:[window] -> prop:[Request],type:[[object Function]]} 
+{get|obj:[window] -> prop:[showModalDialog],ret:[undefined]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[standalone],ret:[undefined]} 
+{get|obj:[window] -> prop:[MSBlobBuilder],ret:[undefined]} 
+{get|obj:[navigator] -> prop:[webkitPersistentStorage],type:[[object Object]]} 
+{get|obj:[window] -> prop:[FaveIconJavaInterface],ret:[undefined]} 
+{get|obj:[window] -> prop:[jesion],ret:[undefined]} 
+{get|obj:[window] -> prop:[xwalk],ret:[undefined]} 
+{get|obj:[window] -> prop:[bd_searchbox_interface],ret:[undefined]} 
+{get|obj:[window] -> prop:[chrome],type:[[object Object]]} 
+{get|obj:[window] -> prop:[chrome],type:[[object Object]]} 
+{get|obj:[window.chrome] -> prop:[runtime],ret:[undefined]} 
+{get|obj:[window] -> prop:[chrome],type:[[object Object]]} 
+{get|obj:[window.chrome] -> prop:[webstore],ret:[undefined]} 
+{get|obj:[document] -> prop:[documentElement],type:[[object HTMLHtmlElement]]} 
+{get|obj:[html_40] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[window] -> prop:[UCWebExt],ret:[undefined]} 
+{get|obj:[window] -> prop:[ucweb],ret:[undefined]} 
+{get|obj:[window] -> prop:[qb_bridge],ret:[undefined]} 
+{get|obj:[window] -> prop:[qbbookshelf],ret:[undefined]} 
+{get|obj:[window] -> prop:[dolphin],ret:[undefined]} 
+{get|obj:[window] -> prop:[dolphininfo],ret:[undefined]} 
+{get|obj:[window] -> prop:[dolphinmeta],ret:[undefined]} 
+{get|obj:[window] -> prop:[chrome],type:[[object Object]]} 
+{get|obj:[window] -> prop:[chrome],type:[[object Object]]} 
+{get|obj:[window.chrome] -> prop:[LiebaoAdMatchUrl],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoAutoFill_gameAccountInfo],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoBackup_Backup],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoBackup_GetVersion],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoBackup_Load],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoBackup_Recovery],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoBackup_State],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoCallRequest],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoCallRequestAsync],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoDownloadUrl],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoGetPrefs],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoGetUserInfo],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoGetUUID],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoGetVersion],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoInst],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LieBaoLookupDnsAddress],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoOpenImageOcr],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoRememberSelection],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LieBaoSendRequest],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LieBaoSetHostAddress],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoUninsKPDF],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[NotifyLiebao],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[NotifyLiebaoEx],ret:[undefined]} 
+{get|obj:[window] -> prop:[qihoo],ret:[undefined]} 
+{get|obj:[window] -> prop:[safari],ret:[undefined]} 
+{get|obj:[window] -> prop:[orientation],ret:[undefined]} 
+{get|obj:[window] -> prop:[ActiveXObject],ret:[undefined]} 
+{get|obj:[navigator] -> prop:[mimeTypes],type:[[object MimeTypeArray]]} 
+{get|obj:[mimeTypeArray_2] -> prop:[application/x-shockwave-flash],ret:[undefined]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36]} 
+{get|obj:[window] -> prop:[callPhantom],ret:[undefined]} 
+{get|obj:[window] -> prop:[_phantom],ret:[undefined]} 
+{get|obj:[window] -> prop:[$hook$],ret:[undefined]} 
+{get|obj:[window] -> prop:[$$logger],ret:[undefined]} 
+{get|obj:[window] -> prop:[$$lsp],ret:[undefined]} 
+{get|obj:[window] -> prop:[$$lsrb],ret:[undefined]} 
+{get|obj:[window] -> prop:[$hdx$],ret:[undefined]} 
+{get|obj:[window] -> prop:[$readyCodeAlreadyExecutedInThisFrame],ret:[undefined]} 
+{get|obj:[window] -> prop:[$sdx$],ret:[undefined]} 
+{get|obj:[window] -> prop:[$uie$],ret:[undefined]} 
+{get|obj:[window] -> prop:[netsparker],ret:[undefined]} 
+{get|obj:[window] -> prop:[__ns],ret:[undefined]} 
+{get|obj:[window] -> prop:[__nsAppendText],ret:[undefined]} 
+{get|obj:[window] -> prop:[eoWebBrowser],ret:[undefined]} 
+{get|obj:[window] -> prop:[hp_identifier],ret:[undefined]} 
+{get|obj:[window] -> prop:[appScanClick],ret:[undefined]} 
+{get|obj:[window] -> prop:[appScanFocusOut],ret:[undefined]} 
+{get|obj:[window] -> prop:[appScanKeyDown],ret:[undefined]} 
+{get|obj:[window] -> prop:[appScanKeyUp],ret:[undefined]} 
+{get|obj:[window] -> prop:[appScanSendReplacement],ret:[undefined]} 
+{get|obj:[window] -> prop:[appScanOnReadyStateChangeReplacement],ret:[undefined]} 
+{get|obj:[window] -> prop:[appScanLoadHandler],ret:[undefined]} 
+{get|obj:[window] -> prop:[appScanSetPageLoaded],ret:[undefined]} 
+{get|obj:[window] -> prop:[spi_hooked],ret:[undefined]} 
+{get|obj:[window] -> prop:[mozAnimationStartTime],ret:[undefined]} 
+{get|obj:[window] -> prop:[mozIndexedDB],ret:[undefined]} 
+{get|obj:[window] -> prop:[mozRequestAnimationFrame],ret:[undefined]} 
+{get|obj:[window] -> prop:[Entity],ret:[undefined]} 
+{get|obj:[window] -> prop:[QTP_EPE_HOOK],ret:[undefined]} 
+{get|obj:[window] -> prop:[__QTP__HOOK_NOTIFIER],ret:[undefined]} 
+{get|obj:[navigator] -> prop:[languages],type:[[object Array]]} 
+{get|obj:[window] -> prop:[shenjian],ret:[undefined]} 
+{get|obj:[window] -> prop:[oldAlert],ret:[undefined]} 
+{get|obj:[window] -> prop:[open],type:[[object Function]]} 
+{get|obj:[window] -> prop:[open],type:[[object Function]]} 
+{get|obj:[window] -> prop:[Call],ret:[undefined]} 
+{get|obj:[window] -> prop:[badboy],ret:[undefined]} 
+{get|obj:[document] -> prop:[getElementById],type:[[object Function]]} 
+{get|obj:[Document_createElement_html_17] -> prop:[id],ret:[undefined]} 
+{get|obj:[Document_createElement_head_19] -> prop:[id],ret:[undefined]} 
+{get|obj:[Document_createElement_meta_21] -> prop:[id],ret:[undefined]} 
+{apply|function:[document.getElementById], args:[root-hammerhead-shadow-ui], result:[null]} 
+{get|obj:[window] -> prop:[%hammerhead%],ret:[undefined]} 
+{get|obj:[window] -> prop:[%testCafeCore%],ret:[undefined]} 
+{get|obj:[window] -> prop:[%testCafeDriver%],ret:[undefined]} 
+{get|obj:[window] -> prop:[%testCafeIframeDriver%],ret:[undefined]} 
+{get|obj:[window] -> prop:[%testCafeAutomation%],ret:[undefined]} 
+{get|obj:[document] -> prop:[hammerhead|document-charset],ret:[undefined]} 
+{get|obj:[document] -> prop:[hammerhead|document-url-resolver],ret:[undefined]} 
+{get|obj:[document] -> prop:[hammerhead|element-listening-events-storage-prop],ret:[undefined]} 
+{get|obj:[document] -> prop:[hammerhead|location-wrapper],ret:[undefined]} 
+{get|obj:[window] -> prop:[addLink],ret:[undefined]} 
+{get|obj:[window] -> prop:[_playwrightRecorderState],ret:[undefined]} 
+{get|obj:[window] -> prop:[_playwrightRecorderSetSelector],ret:[undefined]} 
+{get|obj:[window] -> prop:[_playwrightResume],ret:[undefined]} 
+{get|obj:[window] -> prop:[_playwrightRecorderPerformAction],ret:[undefined]} 
+{get|obj:[window] -> prop:[_playwrightRecorderRecordAction],ret:[undefined]} 
+{get|obj:[window] -> prop:[__pw_recorderPerformAction],ret:[undefined]} 
+{get|obj:[window] -> prop:[__pw_recorderSetSelector],ret:[undefined]} 
+{get|obj:[window] -> prop:[__pw_refreshOverlay],ret:[undefined]} 
+{get|obj:[window] -> prop:[__pw_recorderRecordAction],ret:[undefined]} 
+{get|obj:[window] -> prop:[__pw_recorderState],ret:[undefined]} 
+{get|obj:[window] -> prop:[cdc_adoQpoasnfa76pfcZLmcfl_Symbol],ret:[undefined]} 
+{get|obj:[window] -> prop:[cdc_adoQpoasnfa76pfcZLmcfl_Array],ret:[undefined]} 
+{get|obj:[window] -> prop:[cdc_adoQpoasnfa76pfcZLmcfl_Promise],ret:[undefined]} 
+{get|obj:[window] -> prop:[_$$1],ret:[undefined]} 
+{get|obj:[document] -> prop:[createExpression],type:[[object Function]]} 
+{get|obj:[document] -> prop:[createExpression],type:[[object Function]]} 
+{apply|function:[document.createExpression], args:[//html,], type:[[object XPathExpression]]} 
+{get|obj:[Document_createExpression_XPathExpression_42] -> prop:[_$iD],ret:[undefined]} 
+{get|obj:[window] -> prop:[webkitRequestFileSystem],type:[[object Function]]} 
+{get|obj:[navigator] -> prop:[appVersion],ret:[5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[appVersion],ret:[5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36]} 
+{get|obj:[window] -> prop:[TEMPORARY],ret:[0]} 
+{get|obj:[window] -> prop:[webkitRequestFileSystem],type:[[object Function]]} 
+{apply|function:[window.webkitRequestFileSystem], args:[0,1,function _$h3(){var _$h3,_$_F,_$df,_$b$,_$af,_$bR;if(_$jM._$iN)(_$_F=_$e2._$kH(),_$h3=_$e2._$kH(),_$_F[1]=_$$0[1],_$_F[3]=_$$0[3]);else{_$_F=[],_$h3=new _$d4(_$jM._$jn),_$_F[1]=_$$0[1].concat([arguments]),_$_F[3]=_$$0[3].concat([_$h3]),_$df=_$jM._$$J;for(_$b$=2;_$b$<_$df.length;_$b$++ )_$h3[_$b$]=_$jZ(_$df[_$b$],_$_F);}_$_F[0]=arguments,_$_F[2]=_$h3,_$h3[0]=this,_$h3[1]=arguments,_$jM._$i5.charCodeAt?_$jM._$i5=_$hZ(_$jM._$i5):0,_$eO(_$jM,0,_$jM._$i5.length,_$_F),_$af=_$_F[4],_$bR=_$_F[5],_$jM._$iN?(_$e2._$a1(_$_F),_$e2._$a1(_$h3)):0;if(_$af===1)return _$bR;},function _$h3(){var _$h3,_$_F,_$df,_$b$,_$af,_$bR;if(_$jM._$iN)(_$_F=_$e2._$kH(),_$h3=_$e2._$kH(),_$_F[1]=_$$0[1],_$_F[3]=_$$0[3]);else{_$_F=[],_$h3=new _$d4(_$jM._$jn),_$_F[1]=_$$0[1].concat([arguments]),_$_F[3]=_$$0[3].concat([_$h3]),_$df=_$jM._$$J;for(_$b$=2;_$b$<_$df.length;_$b$++ )_$h3[_$b$]=_$jZ(_$df[_$b$],_$_F);}_$_F[0]=arguments,_$_F[2]=_$h3,_$h3[0]=this,_$h3[1]=arguments,_$jM._$i5.charCodeAt?_$jM._$i5=_$hZ(_$jM._$i5):0,_$eO(_$jM,0,_$jM._$i5.length,_$_F),_$af=_$_F[4],_$bR=_$_F[5],_$jM._$iN?(_$e2._$a1(_$_F),_$e2._$a1(_$h3)):0;if(_$af===1)return _$bR;}], result:[undefined]} 
+{get|obj:[window] -> prop:[katalonRunScript],ret:[undefined]} 
+{get|obj:[window] -> prop:[katalonSendMessage],ret:[undefined]} 
+{get|obj:[window] -> prop:[getFrameLocation],ret:[undefined]} 
+{get|obj:[window] -> prop:[MutationObserver],type:[[object Function]]} 
+{get|obj:[window.MutationObserver] -> prop:[prototype],type:[[object MutationObserver]]} 
+{construct|function:[window.MutationObserver], type:[[object MutationObserver]]} 
+{get|obj:[document] -> prop:[documentElement],type:[[object HTMLHtmlElement]]} 
+{get|obj:[window.MutationObserver.prototype] -> prop:[observe],type:[[object Function]]} 
+{apply|function:[window.MutationObserver.prototype.observe], args:[[object HTMLHtmlElement],[object Object]], result:[undefined]} 
+[object HTMLDocument].addEventListener(driver-evaluate|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(webdriver-evaluate|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(selenium-evaluate|_$h3) > 正在注册 
+[object Window].addEventListener(error|_$h3) > 正在注册 
+setInterval(_$h3,2000) 正在注册 
+setInterval(_$h3,1500) 正在注册 
+{get|obj:[location] -> prop:[href],ret:[http://www.chinastock.com.cn/newsite/cgs-services/stockFinance/businessAnnc.html?type=marginList]} 
+setInterval(_$h3,2047) 正在注册 
+{get|obj:[navigator] -> prop:[battery],ret:[undefined]} 
+{get|obj:[navigator] -> prop:[getBattery],ret:[undefined]} 
+{get|obj:[indexDB_32] -> prop:[open],type:[[object Function]]} 
+{apply|function:[indexDB_32.open], args:[EkcP,1], type:[[object Function]]} 
+{set|obj:[indexDB_32.open_obj46] -> prop:[onerror],type:[[object Function]]} 
+{set|obj:[indexDB_32.open_obj46] -> prop:[onupgradeneeded],type:[[object Function]]} 
+{set|obj:[indexDB_32.open_obj46] -> prop:[onsuccess],type:[[object Function]]} 
+{get|obj:[document] -> prop:[visibilityState],ret:[hidden]} 
+{set|obj:[sessionStorage] -> prop:[$_YWTU],value:[bt9GAAE.posTTidjnHR7GLqxwWD25JHTeEmwpYAiRSa]} 
+{set|obj:[localStorage] -> prop:[$_YWTU],value:[bt9GAAE.posTTidjnHR7GLqxwWD25JHTeEmwpYAiRSa]} 
+{get|obj:[indexDB_32] -> prop:[open],type:[[object Function]]} 
+{apply|function:[indexDB_32.open], args:[EkcP,1], type:[[object Function]]} 
+{set|obj:[indexDB_32.open_obj46] -> prop:[onerror],type:[[object Function]]} 
+{set|obj:[indexDB_32.open_obj46] -> prop:[onupgradeneeded],type:[[object Function]]} 
+{set|obj:[indexDB_32.open_obj46] -> prop:[onsuccess],type:[[object Function]]} 
+{set|obj:[sessionStorage] -> prop:[$_YVTX],value:[Wq]} 
+{set|obj:[localStorage] -> prop:[$_YVTX],value:[Wq]} 
+{get|obj:[indexDB_32] -> prop:[open],type:[[object Function]]} 
+{apply|function:[indexDB_32.open], args:[EkcP,1], type:[[object Function]]} 
+{set|obj:[indexDB_32.open_obj46] -> prop:[onerror],type:[[object Function]]} 
+{set|obj:[indexDB_32.open_obj46] -> prop:[onupgradeneeded],type:[[object Function]]} 
+{set|obj:[indexDB_32.open_obj46] -> prop:[onsuccess],type:[[object Function]]} 
+{get|obj:[window] -> prop:[$bmF0aXZlRmlVyUHJ],ret:[undefined]} 
+{set|obj:[window] -> prop:[$b_setup],type:[[object Function]]} 
+{get|obj:[window] -> prop:[$b_platform],ret:[undefined]} 
+{get|obj:[window] -> prop:[getFrameLocation],ret:[undefined]} 
+{get|obj:[window] -> prop:[CefSharp],ret:[undefined]} 
+{get|obj:[window] -> prop:[cefSharp],ret:[undefined]} 
+{get|obj:[window] -> prop:[_Selenium_IDE_Recorder],ret:[undefined]} 
+{get|obj:[window] -> prop:[_selenium],ret:[undefined]} 
+{get|obj:[window] -> prop:[callSelenium],ret:[undefined]} 
+{get|obj:[document] -> prop:[__driver_evaluate],ret:[undefined]} 
+{get|obj:[document] -> prop:[__webdriver_evaluate],ret:[undefined]} 
+{get|obj:[document] -> prop:[__selenium_evaluate],ret:[undefined]} 
+{get|obj:[document] -> prop:[__fxdriver_evaluate],ret:[undefined]} 
+{get|obj:[document] -> prop:[__driver_unwrapped],ret:[undefined]} 
+{get|obj:[document] -> prop:[__webdriver_unwrapped],ret:[undefined]} 
+{get|obj:[document] -> prop:[__selenium_unwrapped],ret:[undefined]} 
+{get|obj:[document] -> prop:[__fxdriver_unwrapped],ret:[undefined]} 
+{get|obj:[document] -> prop:[__webdriver_script_func],ret:[undefined]} 
+{get|obj:[document] -> prop:[__webdriver_script_fn],ret:[undefined]} 
+{get|obj:[window] -> prop:[clientInformation],type:[[object Navigator]]} 
+{get|obj:[navigator] -> prop:[webdriver],ret:[false]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[webdriver],ret:[false]} 
+{get|obj:[navigator] -> prop:[webdriver],ret:[false]} 
+{get|obj:[document] -> prop:[documentElement],type:[[object HTMLHtmlElement]]} 
+{get|obj:[html_51] -> prop:[getAttribute],type:[[object Function]]} 
+{apply|function:[Document_createElement_script_27.getAttribute], args:[selenium], result:[null]} 
+{get|obj:[document] -> prop:[documentElement],type:[[object HTMLHtmlElement]]} 
+{get|obj:[html_52] -> prop:[getAttribute],type:[[object Function]]} 
+{apply|function:[Document_createElement_script_27.getAttribute], args:[driver], result:[null]} 
+{get|obj:[document] -> prop:[documentElement],type:[[object HTMLHtmlElement]]} 
+{get|obj:[html_53] -> prop:[getAttribute],type:[[object Function]]} 
+{apply|function:[Document_createElement_script_27.getAttribute], args:[webdriver], result:[null]} 
+Document_all_get  ret:[object HTMLAllCollection]  len:3 
+{get|obj:[document] -> prop:[all],该对象为防typeof检测不设代理} 
+Document_all_get  ret:[object HTMLAllCollection]  len:3 
+{get|obj:[document] -> prop:[all],该对象为防typeof检测不设代理} 
+{get|obj:[document.createElement] -> prop:[call],type:[[object Function]]} 
+{apply|function:[document.createElement], args:[form], type:[[object HTMLElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLDocument],form], type:[[object HTMLElement]]} 
+{set|obj:[Document_createElement_form_54] -> prop:[id],value:[__Zm9ybS5pZAo__]} 
+{set|obj:[Document_createElement_form_54] -> prop:[action],value:[https://ucenter.miit.gov.cn/login.jsp]} 
+{get|obj:[document] -> prop:[body],ret:[null]} 
+{get|obj:[document.createElement] -> prop:[call],type:[[object Function]]} 
+{apply|function:[document.createElement], args:[input], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLDocument],input], type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_input_57] -> prop:[id],value:[username]} 
+{set|obj:[Document_createElement_input_57] -> prop:[content],value:[action]} 
+{set|obj:[Document_createElement_input_57] -> prop:[name],value:[action]} 
+{get|obj:[document.createElement] -> prop:[call],type:[[object Function]]} 
+{apply|function:[document.createElement], args:[input], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLDocument],input], type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_input_60] -> prop:[name],value:[textContent]} 
+{set|obj:[Document_createElement_input_60] -> prop:[id],value:[password]} 
+{get|obj:[document.createElement] -> prop:[call],type:[[object Function]]} 
+{apply|function:[document.createElement], args:[input], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLDocument],input], type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_input_63] -> prop:[id],value:[innerText]} 
+{set|obj:[Document_createElement_input_63] -> prop:[type],value:[submit]} 
+{set|obj:[Document_createElement_input_63] -> prop:[name],value:[id]} 
+{get|obj:[document.appendChild] -> prop:[call],type:[[object Function]]} 
+{set|obj:[Document_createElement_form_54] -> prop:[username],type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_form_54] -> prop:[action],type:[[object HTMLInputElement]]} 
+{apply|function:[document.appendChild], args:[[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLElement],[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{get|obj:[document.appendChild] -> prop:[call],type:[[object Function]]} 
+{set|obj:[Document_createElement_form_54] -> prop:[password],type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_form_54] -> prop:[textContent],type:[[object HTMLInputElement]]} 
+{apply|function:[document.appendChild], args:[[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLElement],[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{get|obj:[document.appendChild] -> prop:[call],type:[[object Function]]} 
+{set|obj:[Document_createElement_form_54] -> prop:[innerText],type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_form_54] -> prop:[id],type:[[object HTMLInputElement]]} 
+{apply|function:[document.appendChild], args:[[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLElement],[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{get|obj:[Document_createElement_form_54] -> prop:[action],type:[[object HTMLInputElement]]} 
+{get|obj:[Document_createElement_form_54] -> prop:[textContent],type:[[object HTMLInputElement]]} 
+{get|obj:[Document_createElement_form_54] -> prop:[id],type:[[object HTMLInputElement]]} 
+{get|obj:[Document_createElement_form_54] -> prop:[innerText],type:[[object HTMLInputElement]]} 
+{get|obj:[navigator] -> prop:[platform],ret:[MacIntel]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[maxTouchPoints],ret:[0]} 
+{get|obj:[location] -> prop:[hostname],ret:[www.chinastock.com.cn]} 
+{get|obj:[location] -> prop:[protocol],ret:[http:]} 
+{get|obj:[location] -> prop:[port],ret:[]} 
+{get|obj:[navigator] -> prop:[connection],type:[[object NetworkInformation]]} 
+{get|obj:[NavConnection_75] -> prop:[type],ret:[undefined]} 
+{get|obj:[NavConnection_75] -> prop:[type],ret:[undefined]} 
+{get|obj:[NavConnection_75] -> prop:[type],ret:[undefined]} 
+{get|obj:[NavConnection_75] -> prop:[type],ret:[undefined]} 
+{get|obj:[NavConnection_75] -> prop:[type],ret:[undefined]} 
+{get|obj:[window] -> prop:[$NWE5NzRkYjhmYzM4],ret:[undefined]} 
+setTimeout(_$eK,0) 正在注册 
+{get|obj:[document] -> prop:[visibilityState],ret:[hidden]} 
+{get|obj:[document] -> prop:[visibilityState],ret:[hidden]} 
+{get|obj:[document] -> prop:[visibilityState],ret:[hidden]} 
+{get|obj:[document] -> prop:[visibilityState],ret:[hidden]} 
+Document_cookie_set: [value:1EzPGwRUoQaWT=Idddd6ddddedddddIddddgW1Nn4L5xa6wA5wO0pGnsgM16oqP4O8goCV09.IFO9fPNxAr0Ctl6lxMQ2vnHqMLeEwoFc1.XihJBhP7wI0rnVJhB.4lWY17t3CnYFGwtMDD09T4k4HXN1OH19DHdbXm0tjFybUpfGy.cESIVmZkBoSYNP9RfRSrCmV0mIm_.0jT8ZGJp2Tkvd3vXp5u5fOkGwGOIVhC5qIaM1nU3nndNL; path=/; expires=Tue, 01 Nov 2022 02:57:46 GMT, length:296] 
+{set|obj:[document] -> prop:[cookie],value:[1EzPGwRUoQaWT=Idddd6ddddedddddIddddgW1Nn4L5xa6wA5wO0pGnsgM16oqP4O8goCV09.IFO9fPNxAr0Ctl6lxMQ2vnHqMLeEwoFc1.XihJBhP7wI0rnVJhB.4lWY17t3CnYFGwtMDD09T4k4HXN1OH19DHdbXm0tjFybUpfGy.cESIVmZkBoSYNP9RfRSrCmV0mIm_.0jT8ZGJp2Tkvd3vXp5u5fOkGwGOIVhC5qIaM1nU3nndNL; path=/; expires=Tue, 01 Nov 2022 02:57:46 GMT]} 
+setInterval(_$h3,1000) 正在注册 
+{set|obj:[window] -> prop:[_$$T],type:[[object Function]]} 
+{set|obj:[window] -> prop:[_$_v],type:[[object Function]]} 
+{set|obj:[window] -> prop:[_$df],type:[[object Function]]} 
+{set|obj:[window] -> prop:[_$am],type:[[object Function]]} 
+{set|obj:[window] -> prop:[_$hT],type:[[object Function]]} 
+{set|obj:[window] -> prop:[_$dK],type:[[object Function]]} 
+{set|obj:[window] -> prop:[_$hJ],type:[[object Function]]} 
+{set|obj:[window] -> prop:[_$aJ],type:[[object Function]]} 
+{set|obj:[window] -> prop:[_$b$],type:[[object Function]]} 
+{set|obj:[window] -> prop:[_$j3],type:[[object Function]]} 
+[object HTMLDocument].addEventListener(contextmenu|_$eB) > 正在注册 
+{get|obj:[Document_getElementsByTagName_base_76] -> prop:[length],ret:[0]} 
+{get|obj:[location] -> prop:[protocol],ret:[http:]} 
+{get|obj:[location] -> prop:[port],ret:[]} 
+{get|obj:[location] -> prop:[href],ret:[http://www.chinastock.com.cn/newsite/cgs-services/stockFinance/businessAnnc.html?type=marginList]} 
+{get|obj:[location] -> prop:[href],ret:[http://www.chinastock.com.cn/newsite/cgs-services/stockFinance/businessAnnc.html?type=marginList]} 
+{get|obj:[location] -> prop:[port],ret:[]} 
+{get|obj:[location] -> prop:[protocol],ret:[http:]} 
+{get|obj:[location] -> prop:[protocol],ret:[http:]} 
+{get|obj:[location] -> prop:[hostname],ret:[www.chinastock.com.cn]} 
+{get|obj:[location] -> prop:[pathname],ret:[/newsite/cgs-services/stockFinance/businessAnnc.html]} 
+{get|obj:[location] -> prop:[protocol],ret:[http:]} 
+{get|obj:[location] -> prop:[host],ret:[www.chinastock.com.cn]} 
+{get|obj:[location] -> prop:[hostname],ret:[www.chinastock.com.cn]} 
+{get|obj:[location] -> prop:[pathname],ret:[/newsite/cgs-services/stockFinance/businessAnnc.html]} 
+{get|obj:[location] -> prop:[search],ret:[?type=marginList]} 
+{get|obj:[location] -> prop:[hash],ret:[]} 
+{get|obj:[Document_getElementsByTagName_base_77] -> prop:[length],ret:[0]} 
+{get|obj:[location] -> prop:[protocol],ret:[http:]} 
+{get|obj:[location] -> prop:[port],ret:[]} 
+{get|obj:[location] -> prop:[href],ret:[http://www.chinastock.com.cn/newsite/cgs-services/stockFinance/businessAnnc.html?type=marginList]} 
+{get|obj:[location] -> prop:[href],ret:[http://www.chinastock.com.cn/newsite/cgs-services/stockFinance/businessAnnc.html?type=marginList]} 
+{get|obj:[location] -> prop:[port],ret:[]} 
+{get|obj:[location] -> prop:[protocol],ret:[http:]} 
+{get|obj:[location] -> prop:[protocol],ret:[http:]} 
+{get|obj:[location] -> prop:[hostname],ret:[www.chinastock.com.cn]} 
+{get|obj:[location] -> prop:[pathname],ret:[/newsite/cgs-services/stockFinance/businessAnnc.html]} 
+{get|obj:[location] -> prop:[protocol],ret:[http:]} 
+{get|obj:[location] -> prop:[host],ret:[www.chinastock.com.cn]} 
+{get|obj:[location] -> prop:[hostname],ret:[www.chinastock.com.cn]} 
+{get|obj:[location] -> prop:[pathname],ret:[/newsite/cgs-services/stockFinance/businessAnnc.html]} 
+{get|obj:[location] -> prop:[search],ret:[?type=marginList]} 
+{get|obj:[location] -> prop:[hash],ret:[]} 
+{get|obj:[location] -> prop:[port],ret:[]} 
+{get|obj:[location] -> prop:[protocol],ret:[http:]} 
+{get|obj:[location] -> prop:[protocol],ret:[http:]} 
+{get|obj:[document] -> prop:[createElement],type:[[object Function]]} 
+Document_createElement 正在创建[a]标签 
+{apply|function:[document.createElement], args:[a], type:[[object HTMLAnchorElement]]} 
+{set|obj:[Document_createElement_a_78] -> prop:[href],value:[http://www.chinastock.com.cn:80/newsite/cgs-services/stockFinance/businessAnnc.html?type=marginList]} 
+{get|obj:[Document_createElement_a_78] -> prop:[href],ret:[http://www.chinastock.com.cn:80/newsite/cgs-services/stockFinance/businessAnnc.html?type=marginList]} 
+{set|obj:[Document_createElement_a_78] -> prop:[href],value:[http://www.chinastock.com.cn:80/newsite/cgs-services/stockFinance/businessAnnc.html?type=marginList]} 
+{get|obj:[Document_createElement_a_78] -> prop:[href],ret:[http://www.chinastock.com.cn:80/newsite/cgs-services/stockFinance/businessAnnc.html?type=marginList]} 
+{get|obj:[Document_createElement_a_78] -> prop:[href],ret:[http://www.chinastock.com.cn:80/newsite/cgs-services/stockFinance/businessAnnc.html?type=marginList]} 
+{get|obj:[Document_createElement_a_78] -> prop:[protocol],ret:[http:]} 
+{get|obj:[Document_createElement_a_78] -> prop:[protocol],ret:[http:]} 
+{get|obj:[Document_createElement_a_78] -> prop:[hostname],ret:[www.chinastock.com.cn]} 
+{get|obj:[Document_createElement_a_78] -> prop:[port],ret:[80]} 
+{get|obj:[Document_createElement_a_78] -> prop:[port],ret:[80]} 
+{get|obj:[Document_createElement_a_78] -> prop:[port],ret:[80]} 
+{get|obj:[Document_createElement_a_78] -> prop:[pathname],ret:[/newsite/cgs-services/stockFinance/businessAnnc.html]} 
+{get|obj:[Document_createElement_a_78] -> prop:[pathname],ret:[/newsite/cgs-services/stockFinance/businessAnnc.html]} 
+{get|obj:[Document_createElement_a_78] -> prop:[search],ret:[?type=marginList]} 
+{get|obj:[Document_createElement_a_78] -> prop:[hash],ret:[]} 
+{get|obj:[location] -> prop:[hostname],ret:[www.chinastock.com.cn]} 
+{get|obj:[document] -> prop:[body],ret:[null]} 
+setTimeout|0|func 事件正在执行 > _$h3 
+[object Window] addEventListener load 事件正在执行 > _$h3 
+{get|obj:[Document_getElementsByTagName_script_80] -> prop:[length],ret:[0]} 
+setTimeout(_$h3,0) 正在注册 
+{get|obj:[window] -> prop:[self],type:[[object Window]]} 
+{get|obj:[window] -> prop:[top],type:[[object Window]]} 
+{get|obj:[document] -> prop:[cookie],ret:[enable_1EzPGwRUoQaW=true; 1EzPGwRUoQaWT=Idddd6ddddedddddIddddgW1Nn4L5xa6wA5wO0pGnsgM16oqP4O8goCV09.IFO9fPNxAr0Ctl6lxMQ2vnHqMLeEwoFc1.XihJBhP7wI0rnVJhB.4lWY17t3CnYFGwtMDD09T4k4HXN1OH19DHdbXm0tjFybUpfGy.cESIVmZkBoSYNP9RfRSrCmV0mIm_.0jT8ZGJp2Tkvd3vXp5u5fOkGwGOIVhC5qIaM1nU3nndNL; ]} 
+{get|obj:[location] -> prop:[protocol],ret:[http:]} 
+Document_cookie_set: [value:enable_1EzPGwRUoQaW=true; expires=Tue, 25 Oct 2022 02:56:06 GMT, length:63] 
+{set|obj:[document] -> prop:[cookie],value:[enable_1EzPGwRUoQaW=true; expires=Tue, 25 Oct 2022 02:56:06 GMT]} 
+{get|obj:[window] -> prop:[getFrameLocation],ret:[undefined]} 
+{get|obj:[window] -> prop:[CefSharp],ret:[undefined]} 
+{get|obj:[window] -> prop:[cefSharp],ret:[undefined]} 
+{get|obj:[window] -> prop:[_Selenium_IDE_Recorder],ret:[undefined]} 
+{get|obj:[window] -> prop:[_selenium],ret:[undefined]} 
+{get|obj:[window] -> prop:[callSelenium],ret:[undefined]} 
+{get|obj:[document] -> prop:[__driver_evaluate],ret:[undefined]} 
+{get|obj:[document] -> prop:[__webdriver_evaluate],ret:[undefined]} 
+{get|obj:[document] -> prop:[__selenium_evaluate],ret:[undefined]} 
+{get|obj:[document] -> prop:[__fxdriver_evaluate],ret:[undefined]} 
+{get|obj:[document] -> prop:[__driver_unwrapped],ret:[undefined]} 
+{get|obj:[document] -> prop:[__webdriver_unwrapped],ret:[undefined]} 
+{get|obj:[document] -> prop:[__selenium_unwrapped],ret:[undefined]} 
+{get|obj:[document] -> prop:[__fxdriver_unwrapped],ret:[undefined]} 
+{get|obj:[document] -> prop:[__webdriver_script_func],ret:[undefined]} 
+{get|obj:[document] -> prop:[__webdriver_script_fn],ret:[undefined]} 
+{get|obj:[window] -> prop:[clientInformation],type:[[object Navigator]]} 
+{get|obj:[navigator] -> prop:[webdriver],ret:[false]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[webdriver],ret:[false]} 
+{get|obj:[navigator] -> prop:[webdriver],ret:[false]} 
+{get|obj:[document] -> prop:[documentElement],type:[[object HTMLHtmlElement]]} 
+{get|obj:[html_81] -> prop:[getAttribute],type:[[object Function]]} 
+{apply|function:[Document_createElement_script_27.getAttribute], args:[selenium], result:[null]} 
+{get|obj:[document] -> prop:[documentElement],type:[[object HTMLHtmlElement]]} 
+{get|obj:[html_82] -> prop:[getAttribute],type:[[object Function]]} 
+{apply|function:[Document_createElement_script_27.getAttribute], args:[driver], result:[null]} 
+{get|obj:[document] -> prop:[documentElement],type:[[object HTMLHtmlElement]]} 
+{get|obj:[html_83] -> prop:[getAttribute],type:[[object Function]]} 
+{apply|function:[Document_createElement_script_27.getAttribute], args:[webdriver], result:[null]} 
+Document_all_get  ret:[object HTMLAllCollection]  len:6 
+{get|obj:[document] -> prop:[all],该对象为防typeof检测不设代理} 
+Document_all_get  ret:[object HTMLAllCollection]  len:6 
+{get|obj:[document] -> prop:[all],该对象为防typeof检测不设代理} 
+{get|obj:[document.createElement] -> prop:[call],type:[[object Function]]} 
+{apply|function:[document.createElement], args:[form], type:[[object HTMLElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLDocument],form], type:[[object HTMLElement]]} 
+{set|obj:[Document_createElement_form_84] -> prop:[id],value:[__Zm9ybS5pZAo__]} 
+{set|obj:[Document_createElement_form_84] -> prop:[action],value:[https://ucenter.miit.gov.cn/login.jsp]} 
+{get|obj:[document] -> prop:[body],ret:[null]} 
+{get|obj:[document.createElement] -> prop:[call],type:[[object Function]]} 
+{apply|function:[document.createElement], args:[input], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLDocument],input], type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_input_87] -> prop:[id],value:[username]} 
+{set|obj:[Document_createElement_input_87] -> prop:[content],value:[action]} 
+{set|obj:[Document_createElement_input_87] -> prop:[name],value:[action]} 
+{get|obj:[document.createElement] -> prop:[call],type:[[object Function]]} 
+{apply|function:[document.createElement], args:[input], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLDocument],input], type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_input_90] -> prop:[name],value:[textContent]} 
+{set|obj:[Document_createElement_input_90] -> prop:[id],value:[password]} 
+{get|obj:[document.createElement] -> prop:[call],type:[[object Function]]} 
+{apply|function:[document.createElement], args:[input], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLDocument],input], type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_input_93] -> prop:[id],value:[innerText]} 
+{set|obj:[Document_createElement_input_93] -> prop:[type],value:[submit]} 
+{set|obj:[Document_createElement_input_93] -> prop:[name],value:[id]} 
+{get|obj:[document.appendChild] -> prop:[call],type:[[object Function]]} 
+{set|obj:[Document_createElement_form_84] -> prop:[username],type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_form_84] -> prop:[action],type:[[object HTMLInputElement]]} 
+{apply|function:[document.appendChild], args:[[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLElement],[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{get|obj:[document.appendChild] -> prop:[call],type:[[object Function]]} 
+{set|obj:[Document_createElement_form_84] -> prop:[password],type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_form_84] -> prop:[textContent],type:[[object HTMLInputElement]]} 
+{apply|function:[document.appendChild], args:[[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLElement],[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{get|obj:[document.appendChild] -> prop:[call],type:[[object Function]]} 
+{set|obj:[Document_createElement_form_84] -> prop:[innerText],type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_form_84] -> prop:[id],type:[[object HTMLInputElement]]} 
+{apply|function:[document.appendChild], args:[[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLElement],[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{get|obj:[Document_createElement_form_84] -> prop:[action],type:[[object HTMLInputElement]]} 
+{get|obj:[Document_createElement_form_84] -> prop:[textContent],type:[[object HTMLInputElement]]} 
+{get|obj:[Document_createElement_form_84] -> prop:[id],type:[[object HTMLInputElement]]} 
+{get|obj:[Document_createElement_form_84] -> prop:[innerText],type:[[object HTMLInputElement]]} 
+{get|obj:[navigator] -> prop:[platform],ret:[MacIntel]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[maxTouchPoints],ret:[0]} 
+{get|obj:[location] -> prop:[hostname],ret:[www.chinastock.com.cn]} 
+{get|obj:[location] -> prop:[protocol],ret:[http:]} 
+{get|obj:[location] -> prop:[port],ret:[]} 
+{get|obj:[navigator] -> prop:[connection],type:[[object NetworkInformation]]} 
+{get|obj:[NavConnection_105] -> prop:[type],ret:[undefined]} 
+{get|obj:[NavConnection_105] -> prop:[type],ret:[undefined]} 
+{get|obj:[NavConnection_105] -> prop:[type],ret:[undefined]} 
+{get|obj:[NavConnection_105] -> prop:[type],ret:[undefined]} 
+{get|obj:[NavConnection_105] -> prop:[type],ret:[undefined]} 
+{get|obj:[document] -> prop:[visibilityState],ret:[hidden]} 
+{get|obj:[document] -> prop:[visibilityState],ret:[hidden]} 
+{get|obj:[document] -> prop:[visibilityState],ret:[hidden]} 
+{get|obj:[document] -> prop:[visibilityState],ret:[hidden]} 
+Document_cookie_set: [value:1EzPGwRUoQaWT=Idddd6ddddedddddIddddabo2XzzpocJAso7CkwqRVbkrer9lzW6wscbbgNarUiI3qCHSTRE0VdOnCj.8zo36iyhipgOfJR1rIIHuMvA__T_.BRn59_C6awunXQBNBUi8ZEJiM20JWy1YYLg4qDQQAqbTpUN6h6BP23LAzN5.fTYYfV0ZUTkglQX9rr22Ey89tAHnaiMfkU3rrzpkNiTg5wco58g9VPlN7o15Jm2ZPQ; path=/; expires=Tue, 01 Nov 2022 02:57:46 GMT, length:296] 
+{set|obj:[document] -> prop:[cookie],value:[1EzPGwRUoQaWT=Idddd6ddddedddddIddddabo2XzzpocJAso7CkwqRVbkrer9lzW6wscbbgNarUiI3qCHSTRE0VdOnCj.8zo36iyhipgOfJR1rIIHuMvA__T_.BRn59_C6awunXQBNBUi8ZEJiM20JWy1YYLg4qDQQAqbTpUN6h6BP23LAzN5.fTYYfV0ZUTkglQX9rr22Ey89tAHnaiMfkU3rrzpkNiTg5wco58g9VPlN7o15Jm2ZPQ; path=/; expires=Tue, 01 Nov 2022 02:57:46 GMT]} 
+[object HTMLDocument].addEventListener(keydown|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(touchend|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(click|_$h3) > 正在注册 
+setInterval(_$h3,50000) 正在注册 
+setTimeout(_$h3,0) 正在注册 
+{get|obj:[document] -> prop:[getElementById],type:[[object Function]]} 
+{get|obj:[Document_createElement_html_17] -> prop:[id],ret:[undefined]} 
+{get|obj:[Document_createElement_head_19] -> prop:[id],ret:[undefined]} 
+{get|obj:[Document_createElement_meta_21] -> prop:[id],ret:[undefined]} 
+{get|obj:[Document_createElement_input_57] -> prop:[id],ret:[username]} 
+{get|obj:[Document_createElement_input_60] -> prop:[id],ret:[password]} 
+{get|obj:[Document_createElement_input_63] -> prop:[id],ret:[innerText]} 
+{get|obj:[Document_createElement_input_87] -> prop:[id],ret:[username]} 
+{get|obj:[Document_createElement_input_90] -> prop:[id],ret:[password]} 
+{get|obj:[Document_createElement_input_93] -> prop:[id],ret:[innerText]} 
+{apply|function:[document.getElementById], args:[__anchor__], result:[null]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[standalone],ret:[undefined]} 
+{get|obj:[window] -> prop:[MSBlobBuilder],ret:[undefined]} 
+{get|obj:[navigator] -> prop:[webkitPersistentStorage],type:[[object Object]]} 
+{get|obj:[window] -> prop:[FaveIconJavaInterface],ret:[undefined]} 
+{get|obj:[window] -> prop:[jesion],ret:[undefined]} 
+{get|obj:[window] -> prop:[xwalk],ret:[undefined]} 
+{get|obj:[window] -> prop:[bd_searchbox_interface],ret:[undefined]} 
+{get|obj:[window] -> prop:[chrome],type:[[object Object]]} 
+{get|obj:[window] -> prop:[chrome],type:[[object Object]]} 
+{get|obj:[window.chrome] -> prop:[runtime],ret:[undefined]} 
+{get|obj:[window] -> prop:[chrome],type:[[object Object]]} 
+{get|obj:[window.chrome] -> prop:[webstore],ret:[undefined]} 
+{get|obj:[document] -> prop:[documentElement],type:[[object HTMLHtmlElement]]} 
+{get|obj:[html_107] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[window] -> prop:[UCWebExt],ret:[undefined]} 
+{get|obj:[window] -> prop:[ucweb],ret:[undefined]} 
+{get|obj:[window] -> prop:[qb_bridge],ret:[undefined]} 
+{get|obj:[window] -> prop:[qbbookshelf],ret:[undefined]} 
+{get|obj:[window] -> prop:[dolphin],ret:[undefined]} 
+{get|obj:[window] -> prop:[dolphininfo],ret:[undefined]} 
+{get|obj:[window] -> prop:[dolphinmeta],ret:[undefined]} 
+{get|obj:[window] -> prop:[chrome],type:[[object Object]]} 
+{get|obj:[window] -> prop:[chrome],type:[[object Object]]} 
+{get|obj:[window.chrome] -> prop:[LiebaoAdMatchUrl],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoAutoFill_gameAccountInfo],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoBackup_Backup],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoBackup_GetVersion],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoBackup_Load],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoBackup_Recovery],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoBackup_State],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoCallRequest],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoCallRequestAsync],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoDownloadUrl],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoGetPrefs],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoGetUserInfo],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoGetUUID],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoGetVersion],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoInst],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LieBaoLookupDnsAddress],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoOpenImageOcr],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoRememberSelection],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LieBaoSendRequest],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LieBaoSetHostAddress],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[LiebaoUninsKPDF],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[NotifyLiebao],ret:[undefined]} 
+{get|obj:[window.chrome] -> prop:[NotifyLiebaoEx],ret:[undefined]} 
+{get|obj:[window] -> prop:[qihoo],ret:[undefined]} 
+{get|obj:[window] -> prop:[safari],ret:[undefined]} 
+{get|obj:[window] -> prop:[orientation],ret:[undefined]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36]} 
+{get|obj:[window] -> prop:[callPhantom],ret:[undefined]} 
+{get|obj:[window] -> prop:[_phantom],ret:[undefined]} 
+{get|obj:[window] -> prop:[$hook$],ret:[undefined]} 
+{get|obj:[window] -> prop:[$$logger],ret:[undefined]} 
+{get|obj:[window] -> prop:[$$lsp],ret:[undefined]} 
+{get|obj:[window] -> prop:[$$lsrb],ret:[undefined]} 
+{get|obj:[window] -> prop:[$hdx$],ret:[undefined]} 
+{get|obj:[window] -> prop:[$readyCodeAlreadyExecutedInThisFrame],ret:[undefined]} 
+{get|obj:[window] -> prop:[$sdx$],ret:[undefined]} 
+{get|obj:[window] -> prop:[$uie$],ret:[undefined]} 
+{get|obj:[window] -> prop:[netsparker],ret:[undefined]} 
+{get|obj:[window] -> prop:[__ns],ret:[undefined]} 
+{get|obj:[window] -> prop:[__nsAppendText],ret:[undefined]} 
+{get|obj:[window] -> prop:[eoWebBrowser],ret:[undefined]} 
+{get|obj:[window] -> prop:[hp_identifier],ret:[undefined]} 
+{get|obj:[window] -> prop:[appScanClick],ret:[undefined]} 
+{get|obj:[window] -> prop:[appScanFocusOut],ret:[undefined]} 
+{get|obj:[window] -> prop:[appScanKeyDown],ret:[undefined]} 
+{get|obj:[window] -> prop:[appScanKeyUp],ret:[undefined]} 
+{get|obj:[window] -> prop:[appScanSendReplacement],ret:[undefined]} 
+{get|obj:[window] -> prop:[appScanOnReadyStateChangeReplacement],ret:[undefined]} 
+{get|obj:[window] -> prop:[appScanLoadHandler],ret:[undefined]} 
+{get|obj:[window] -> prop:[appScanSetPageLoaded],ret:[undefined]} 
+{get|obj:[window] -> prop:[spi_hooked],ret:[undefined]} 
+{get|obj:[window] -> prop:[mozAnimationStartTime],ret:[undefined]} 
+{get|obj:[window] -> prop:[mozIndexedDB],ret:[undefined]} 
+{get|obj:[window] -> prop:[mozRequestAnimationFrame],ret:[undefined]} 
+{get|obj:[window] -> prop:[Entity],ret:[undefined]} 
+{get|obj:[window] -> prop:[QTP_EPE_HOOK],ret:[undefined]} 
+{get|obj:[window] -> prop:[__QTP__HOOK_NOTIFIER],ret:[undefined]} 
+{get|obj:[navigator] -> prop:[languages],type:[[object Array]]} 
+{get|obj:[window] -> prop:[shenjian],ret:[undefined]} 
+{get|obj:[window] -> prop:[oldAlert],ret:[undefined]} 
+{get|obj:[window] -> prop:[open],type:[[object Function]]} 
+{get|obj:[window] -> prop:[open],type:[[object Function]]} 
+{get|obj:[window] -> prop:[Call],ret:[undefined]} 
+{get|obj:[window] -> prop:[badboy],ret:[undefined]} 
+{get|obj:[document] -> prop:[getElementById],type:[[object Function]]} 
+{get|obj:[Document_createElement_html_17] -> prop:[id],ret:[undefined]} 
+{get|obj:[Document_createElement_head_19] -> prop:[id],ret:[undefined]} 
+{get|obj:[Document_createElement_meta_21] -> prop:[id],ret:[undefined]} 
+{get|obj:[Document_createElement_input_57] -> prop:[id],ret:[username]} 
+{get|obj:[Document_createElement_input_60] -> prop:[id],ret:[password]} 
+{get|obj:[Document_createElement_input_63] -> prop:[id],ret:[innerText]} 
+{get|obj:[Document_createElement_input_87] -> prop:[id],ret:[username]} 
+{get|obj:[Document_createElement_input_90] -> prop:[id],ret:[password]} 
+{get|obj:[Document_createElement_input_93] -> prop:[id],ret:[innerText]} 
+{apply|function:[document.getElementById], args:[root-hammerhead-shadow-ui], result:[null]} 
+{get|obj:[window] -> prop:[%hammerhead%],ret:[undefined]} 
+{get|obj:[window] -> prop:[%testCafeCore%],ret:[undefined]} 
+{get|obj:[window] -> prop:[%testCafeDriver%],ret:[undefined]} 
+{get|obj:[window] -> prop:[%testCafeIframeDriver%],ret:[undefined]} 
+{get|obj:[window] -> prop:[%testCafeAutomation%],ret:[undefined]} 
+{get|obj:[document] -> prop:[hammerhead|document-charset],ret:[undefined]} 
+{get|obj:[document] -> prop:[hammerhead|document-url-resolver],ret:[undefined]} 
+{get|obj:[document] -> prop:[hammerhead|element-listening-events-storage-prop],ret:[undefined]} 
+{get|obj:[document] -> prop:[hammerhead|location-wrapper],ret:[undefined]} 
+{get|obj:[window] -> prop:[addLink],ret:[undefined]} 
+{get|obj:[window] -> prop:[_playwrightRecorderState],ret:[undefined]} 
+{get|obj:[window] -> prop:[_playwrightRecorderSetSelector],ret:[undefined]} 
+{get|obj:[window] -> prop:[_playwrightResume],ret:[undefined]} 
+{get|obj:[window] -> prop:[_playwrightRecorderPerformAction],ret:[undefined]} 
+{get|obj:[window] -> prop:[_playwrightRecorderRecordAction],ret:[undefined]} 
+{get|obj:[window] -> prop:[__pw_recorderPerformAction],ret:[undefined]} 
+{get|obj:[window] -> prop:[__pw_recorderSetSelector],ret:[undefined]} 
+{get|obj:[window] -> prop:[__pw_refreshOverlay],ret:[undefined]} 
+{get|obj:[window] -> prop:[__pw_recorderRecordAction],ret:[undefined]} 
+{get|obj:[window] -> prop:[__pw_recorderState],ret:[undefined]} 
+{get|obj:[window] -> prop:[cdc_adoQpoasnfa76pfcZLmcfl_Symbol],ret:[undefined]} 
+{get|obj:[window] -> prop:[cdc_adoQpoasnfa76pfcZLmcfl_Array],ret:[undefined]} 
+{get|obj:[window] -> prop:[cdc_adoQpoasnfa76pfcZLmcfl_Promise],ret:[undefined]} 
+{get|obj:[window] -> prop:[_$$1],ret:[undefined]} 
+{get|obj:[document] -> prop:[createExpression],type:[[object Function]]} 
+{get|obj:[document] -> prop:[createExpression],type:[[object Function]]} 
+{apply|function:[document.createExpression], args:[//html,], type:[[object XPathExpression]]} 
+{get|obj:[Document_createExpression_XPathExpression_109] -> prop:[_$iD],ret:[undefined]} 
+{get|obj:[window] -> prop:[webkitRequestFileSystem],type:[[object Function]]} 
+{get|obj:[navigator] -> prop:[appVersion],ret:[5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[appVersion],ret:[5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36]} 
+{get|obj:[window] -> prop:[TEMPORARY],ret:[0]} 
+{get|obj:[window] -> prop:[webkitRequestFileSystem],type:[[object Function]]} 
+{apply|function:[window.webkitRequestFileSystem], args:[0,1,function _$h3(){var _$h3,_$_F,_$df,_$b$,_$af,_$bR;if(_$jM._$iN)(_$_F=_$e2._$kH(),_$h3=_$e2._$kH(),_$_F[1]=_$$0[1],_$_F[3]=_$$0[3]);else{_$_F=[],_$h3=new _$d4(_$jM._$jn),_$_F[1]=_$$0[1].concat([arguments]),_$_F[3]=_$$0[3].concat([_$h3]),_$df=_$jM._$$J;for(_$b$=2;_$b$<_$df.length;_$b$++ )_$h3[_$b$]=_$jZ(_$df[_$b$],_$_F);}_$_F[0]=arguments,_$_F[2]=_$h3,_$h3[0]=this,_$h3[1]=arguments,_$jM._$i5.charCodeAt?_$jM._$i5=_$hZ(_$jM._$i5):0,_$eO(_$jM,0,_$jM._$i5.length,_$_F),_$af=_$_F[4],_$bR=_$_F[5],_$jM._$iN?(_$e2._$a1(_$_F),_$e2._$a1(_$h3)):0;if(_$af===1)return _$bR;},function _$h3(){var _$h3,_$_F,_$df,_$b$,_$af,_$bR;if(_$jM._$iN)(_$_F=_$e2._$kH(),_$h3=_$e2._$kH(),_$_F[1]=_$$0[1],_$_F[3]=_$$0[3]);else{_$_F=[],_$h3=new _$d4(_$jM._$jn),_$_F[1]=_$$0[1].concat([arguments]),_$_F[3]=_$$0[3].concat([_$h3]),_$df=_$jM._$$J;for(_$b$=2;_$b$<_$df.length;_$b$++ )_$h3[_$b$]=_$jZ(_$df[_$b$],_$_F);}_$_F[0]=arguments,_$_F[2]=_$h3,_$h3[0]=this,_$h3[1]=arguments,_$jM._$i5.charCodeAt?_$jM._$i5=_$hZ(_$jM._$i5):0,_$eO(_$jM,0,_$jM._$i5.length,_$_F),_$af=_$_F[4],_$bR=_$_F[5],_$jM._$iN?(_$e2._$a1(_$_F),_$e2._$a1(_$h3)):0;if(_$af===1)return _$bR;}], result:[undefined]} 
+{get|obj:[window] -> prop:[getFrameLocation],ret:[undefined]} 
+{get|obj:[window] -> prop:[CefSharp],ret:[undefined]} 
+{get|obj:[window] -> prop:[cefSharp],ret:[undefined]} 
+{get|obj:[window] -> prop:[_Selenium_IDE_Recorder],ret:[undefined]} 
+{get|obj:[window] -> prop:[_selenium],ret:[undefined]} 
+{get|obj:[window] -> prop:[callSelenium],ret:[undefined]} 
+{get|obj:[document] -> prop:[__driver_evaluate],ret:[undefined]} 
+{get|obj:[document] -> prop:[__webdriver_evaluate],ret:[undefined]} 
+{get|obj:[document] -> prop:[__selenium_evaluate],ret:[undefined]} 
+{get|obj:[document] -> prop:[__fxdriver_evaluate],ret:[undefined]} 
+{get|obj:[document] -> prop:[__driver_unwrapped],ret:[undefined]} 
+{get|obj:[document] -> prop:[__webdriver_unwrapped],ret:[undefined]} 
+{get|obj:[document] -> prop:[__selenium_unwrapped],ret:[undefined]} 
+{get|obj:[document] -> prop:[__fxdriver_unwrapped],ret:[undefined]} 
+{get|obj:[document] -> prop:[__webdriver_script_func],ret:[undefined]} 
+{get|obj:[document] -> prop:[__webdriver_script_fn],ret:[undefined]} 
+{get|obj:[window] -> prop:[clientInformation],type:[[object Navigator]]} 
+{get|obj:[navigator] -> prop:[webdriver],ret:[false]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[webdriver],ret:[false]} 
+{get|obj:[navigator] -> prop:[webdriver],ret:[false]} 
+{get|obj:[document] -> prop:[documentElement],type:[[object HTMLHtmlElement]]} 
+{get|obj:[html_111] -> prop:[getAttribute],type:[[object Function]]} 
+{apply|function:[Document_createElement_script_27.getAttribute], args:[selenium], result:[null]} 
+{get|obj:[document] -> prop:[documentElement],type:[[object HTMLHtmlElement]]} 
+{get|obj:[html_112] -> prop:[getAttribute],type:[[object Function]]} 
+{apply|function:[Document_createElement_script_27.getAttribute], args:[driver], result:[null]} 
+{get|obj:[document] -> prop:[documentElement],type:[[object HTMLHtmlElement]]} 
+{get|obj:[html_113] -> prop:[getAttribute],type:[[object Function]]} 
+{apply|function:[Document_createElement_script_27.getAttribute], args:[webdriver], result:[null]} 
+Document_all_get  ret:[object HTMLAllCollection]  len:9 
+{get|obj:[document] -> prop:[all],该对象为防typeof检测不设代理} 
+Document_all_get  ret:[object HTMLAllCollection]  len:9 
+{get|obj:[document] -> prop:[all],该对象为防typeof检测不设代理} 
+{get|obj:[document.createElement] -> prop:[call],type:[[object Function]]} 
+{apply|function:[document.createElement], args:[form], type:[[object HTMLElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLDocument],form], type:[[object HTMLElement]]} 
+{set|obj:[Document_createElement_form_114] -> prop:[id],value:[__Zm9ybS5pZAo__]} 
+{set|obj:[Document_createElement_form_114] -> prop:[action],value:[https://ucenter.miit.gov.cn/login.jsp]} 
+{get|obj:[document] -> prop:[body],ret:[null]} 
+{get|obj:[document.createElement] -> prop:[call],type:[[object Function]]} 
+{apply|function:[document.createElement], args:[input], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLDocument],input], type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_input_117] -> prop:[id],value:[username]} 
+{set|obj:[Document_createElement_input_117] -> prop:[content],value:[action]} 
+{set|obj:[Document_createElement_input_117] -> prop:[name],value:[action]} 
+{get|obj:[document.createElement] -> prop:[call],type:[[object Function]]} 
+{apply|function:[document.createElement], args:[input], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLDocument],input], type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_input_120] -> prop:[name],value:[textContent]} 
+{set|obj:[Document_createElement_input_120] -> prop:[id],value:[password]} 
+{get|obj:[document.createElement] -> prop:[call],type:[[object Function]]} 
+{apply|function:[document.createElement], args:[input], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLDocument],input], type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_input_123] -> prop:[id],value:[innerText]} 
+{set|obj:[Document_createElement_input_123] -> prop:[type],value:[submit]} 
+{set|obj:[Document_createElement_input_123] -> prop:[name],value:[id]} 
+{get|obj:[document.appendChild] -> prop:[call],type:[[object Function]]} 
+{set|obj:[Document_createElement_form_114] -> prop:[username],type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_form_114] -> prop:[action],type:[[object HTMLInputElement]]} 
+{apply|function:[document.appendChild], args:[[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLElement],[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{get|obj:[document.appendChild] -> prop:[call],type:[[object Function]]} 
+{set|obj:[Document_createElement_form_114] -> prop:[password],type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_form_114] -> prop:[textContent],type:[[object HTMLInputElement]]} 
+{apply|function:[document.appendChild], args:[[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLElement],[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{get|obj:[document.appendChild] -> prop:[call],type:[[object Function]]} 
+{set|obj:[Document_createElement_form_114] -> prop:[innerText],type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_form_114] -> prop:[id],type:[[object HTMLInputElement]]} 
+{apply|function:[document.appendChild], args:[[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLElement],[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{get|obj:[Document_createElement_form_114] -> prop:[action],type:[[object HTMLInputElement]]} 
+{get|obj:[Document_createElement_form_114] -> prop:[textContent],type:[[object HTMLInputElement]]} 
+{get|obj:[Document_createElement_form_114] -> prop:[id],type:[[object HTMLInputElement]]} 
+{get|obj:[Document_createElement_form_114] -> prop:[innerText],type:[[object HTMLInputElement]]} 
+[object HTMLDocument].addEventListener(mousedown|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(mouseup|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(mousemove|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(keydown|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(touchstart|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(touchmove|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(touchend|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(click|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(input|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(scroll|_$h3) > 正在注册 
+setTimeout(_$h3,0) 正在注册 
+{get|obj:[location] -> prop:[pathname],ret:[/newsite/cgs-services/stockFinance/businessAnnc.html]} 
+[object HTMLDocument].addEventListener(mousemove|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(mousedown|_$_F) > 正在注册 
+[object HTMLDocument].addEventListener(mouseup|_$df) > 正在注册 
+{get|obj:[document] -> prop:[documentElement],type:[[object HTMLHtmlElement]]} 
+[object HTMLHtmlElement].addEventListener(mouseenter|_$b$) > 正在注册 
+{get|obj:[document] -> prop:[documentElement],type:[[object HTMLHtmlElement]]} 
+[object HTMLHtmlElement].addEventListener(mouseleave|_$af) > 正在注册 
+[object HTMLDocument].addEventListener(keydown|_$bR) > 正在注册 
+[object HTMLDocument].addEventListener(keyup|_$hJ) > 正在注册 
+[object Window].addEventListener(beforeunload|_$jX) > 正在注册 
+[object HTMLDocument].addEventListener(visibilitychange|_$af) > 正在注册 
+{get|obj:[document] -> prop:[hidden],ret:[false]} 
+{get|obj:[document] -> prop:[hidden],ret:[false]} 
+[object HTMLDocument].addEventListener(mousedown|_$dR) > 正在注册 
+[object HTMLDocument].addEventListener(mouseup|_$ho) > 正在注册 
+[object HTMLDocument].addEventListener(mousemove|_$hM) > 正在注册 
+[object HTMLDocument].addEventListener(keydown|_$kq) > 正在注册 
+[object HTMLDocument].addEventListener(keyup|_$ew) > 正在注册 
+[object HTMLDocument].addEventListener(touchstart|_$ko) > 正在注册 
+[object HTMLDocument].addEventListener(touchmove|_$_Z) > 正在注册 
+[object HTMLDocument].addEventListener(touchend|_$he) > 正在注册 
+[object HTMLDocument].addEventListener(click|_$js) > 正在注册 
+[object HTMLDocument].addEventListener(input|_$iv) > 正在注册 
+[object HTMLDocument].addEventListener(scroll|_$$k) > 正在注册 
+setTimeout|0|func 事件正在执行 > _$eK 
+{get|obj:[document] -> prop:[visibilityState],ret:[hidden]} 
+{set|obj:[localStorage] -> prop:[_$rc],value:[TX7umEcqGEcqGEcqnmxfztwZKiKLYK31NwjBzUTP_08CrEK.GgbY7AVE7oa]} 
+setTimeout|0|func 事件正在执行 > _$h3 
+setTimeout|0|func 事件正在执行 > _$h3 
+{get|obj:[window] -> prop:[getFrameLocation],ret:[undefined]} 
+{get|obj:[window] -> prop:[CefSharp],ret:[undefined]} 
+{get|obj:[window] -> prop:[cefSharp],ret:[undefined]} 
+{get|obj:[window] -> prop:[_Selenium_IDE_Recorder],ret:[undefined]} 
+{get|obj:[window] -> prop:[_selenium],ret:[undefined]} 
+{get|obj:[window] -> prop:[callSelenium],ret:[undefined]} 
+{get|obj:[document] -> prop:[__driver_evaluate],ret:[undefined]} 
+{get|obj:[document] -> prop:[__webdriver_evaluate],ret:[undefined]} 
+{get|obj:[document] -> prop:[__selenium_evaluate],ret:[undefined]} 
+{get|obj:[document] -> prop:[__fxdriver_evaluate],ret:[undefined]} 
+{get|obj:[document] -> prop:[__driver_unwrapped],ret:[undefined]} 
+{get|obj:[document] -> prop:[__webdriver_unwrapped],ret:[undefined]} 
+{get|obj:[document] -> prop:[__selenium_unwrapped],ret:[undefined]} 
+{get|obj:[document] -> prop:[__fxdriver_unwrapped],ret:[undefined]} 
+{get|obj:[document] -> prop:[__webdriver_script_func],ret:[undefined]} 
+{get|obj:[document] -> prop:[__webdriver_script_fn],ret:[undefined]} 
+{get|obj:[window] -> prop:[clientInformation],type:[[object Navigator]]} 
+{get|obj:[navigator] -> prop:[webdriver],ret:[false]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[webdriver],ret:[false]} 
+{get|obj:[navigator] -> prop:[webdriver],ret:[false]} 
+{get|obj:[document] -> prop:[documentElement],type:[[object HTMLHtmlElement]]} 
+{get|obj:[html_137] -> prop:[getAttribute],type:[[object Function]]} 
+{apply|function:[Document_createElement_script_27.getAttribute], args:[selenium], result:[null]} 
+{get|obj:[document] -> prop:[documentElement],type:[[object HTMLHtmlElement]]} 
+{get|obj:[html_138] -> prop:[getAttribute],type:[[object Function]]} 
+{apply|function:[Document_createElement_script_27.getAttribute], args:[driver], result:[null]} 
+{get|obj:[document] -> prop:[documentElement],type:[[object HTMLHtmlElement]]} 
+{get|obj:[html_139] -> prop:[getAttribute],type:[[object Function]]} 
+{apply|function:[Document_createElement_script_27.getAttribute], args:[webdriver], result:[null]} 
+Document_all_get  ret:[object HTMLAllCollection]  len:12 
+{get|obj:[document] -> prop:[all],该对象为防typeof检测不设代理} 
+Document_all_get  ret:[object HTMLAllCollection]  len:12 
+{get|obj:[document] -> prop:[all],该对象为防typeof检测不设代理} 
+{get|obj:[document.createElement] -> prop:[call],type:[[object Function]]} 
+{apply|function:[document.createElement], args:[form], type:[[object HTMLElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLDocument],form], type:[[object HTMLElement]]} 
+{set|obj:[Document_createElement_form_140] -> prop:[id],value:[__Zm9ybS5pZAo__]} 
+{set|obj:[Document_createElement_form_140] -> prop:[action],value:[https://ucenter.miit.gov.cn/login.jsp]} 
+{get|obj:[document] -> prop:[body],ret:[null]} 
+{get|obj:[document.createElement] -> prop:[call],type:[[object Function]]} 
+{apply|function:[document.createElement], args:[input], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLDocument],input], type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_input_143] -> prop:[id],value:[username]} 
+{set|obj:[Document_createElement_input_143] -> prop:[content],value:[action]} 
+{set|obj:[Document_createElement_input_143] -> prop:[name],value:[action]} 
+{get|obj:[document.createElement] -> prop:[call],type:[[object Function]]} 
+{apply|function:[document.createElement], args:[input], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLDocument],input], type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_input_146] -> prop:[name],value:[textContent]} 
+{set|obj:[Document_createElement_input_146] -> prop:[id],value:[password]} 
+{get|obj:[document.createElement] -> prop:[call],type:[[object Function]]} 
+{apply|function:[document.createElement], args:[input], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLDocument],input], type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_input_149] -> prop:[id],value:[innerText]} 
+{set|obj:[Document_createElement_input_149] -> prop:[type],value:[submit]} 
+{set|obj:[Document_createElement_input_149] -> prop:[name],value:[id]} 
+{get|obj:[document.appendChild] -> prop:[call],type:[[object Function]]} 
+{set|obj:[Document_createElement_form_140] -> prop:[username],type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_form_140] -> prop:[action],type:[[object HTMLInputElement]]} 
+{apply|function:[document.appendChild], args:[[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLElement],[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{get|obj:[document.appendChild] -> prop:[call],type:[[object Function]]} 
+{set|obj:[Document_createElement_form_140] -> prop:[password],type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_form_140] -> prop:[textContent],type:[[object HTMLInputElement]]} 
+{apply|function:[document.appendChild], args:[[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLElement],[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{get|obj:[document.appendChild] -> prop:[call],type:[[object Function]]} 
+{set|obj:[Document_createElement_form_140] -> prop:[innerText],type:[[object HTMLInputElement]]} 
+{set|obj:[Document_createElement_form_140] -> prop:[id],type:[[object HTMLInputElement]]} 
+{apply|function:[document.appendChild], args:[[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{apply|function:[document.createElement.call], args:[[object HTMLElement],[object HTMLInputElement]], type:[[object HTMLInputElement]]} 
+{get|obj:[Document_createElement_form_140] -> prop:[action],type:[[object HTMLInputElement]]} 
+{get|obj:[Document_createElement_form_140] -> prop:[textContent],type:[[object HTMLInputElement]]} 
+{get|obj:[Document_createElement_form_140] -> prop:[id],type:[[object HTMLInputElement]]} 
+{get|obj:[Document_createElement_form_140] -> prop:[innerText],type:[[object HTMLInputElement]]} 
+{get|obj:[navigator] -> prop:[platform],ret:[MacIntel]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[maxTouchPoints],ret:[0]} 
+{get|obj:[location] -> prop:[hostname],ret:[www.chinastock.com.cn]} 
+{get|obj:[location] -> prop:[protocol],ret:[http:]} 
+{get|obj:[location] -> prop:[port],ret:[]} 
+setTimeout(_$h3,0) 正在注册 
+{get|obj:[navigator] -> prop:[connection],type:[[object NetworkInformation]]} 
+{get|obj:[NavConnection_161] -> prop:[type],ret:[undefined]} 
+{get|obj:[NavConnection_161] -> prop:[type],ret:[undefined]} 
+{get|obj:[NavConnection_161] -> prop:[type],ret:[undefined]} 
+{get|obj:[NavConnection_161] -> prop:[type],ret:[undefined]} 
+{get|obj:[NavConnection_161] -> prop:[type],ret:[undefined]} 
+{get|obj:[document] -> prop:[visibilityState],ret:[hidden]} 
+{get|obj:[document] -> prop:[visibilityState],ret:[hidden]} 
+{get|obj:[document] -> prop:[visibilityState],ret:[hidden]} 
+{get|obj:[document] -> prop:[visibilityState],ret:[hidden]} 
+Document_cookie_set: [value:1EzPGwRUoQaWT=Idddd6ddddedddddIddddn0CrsGxMw48Ermeul38WWody9ZuP6uxuXMw_vRl9W0PU6PadiRzt8NrcBk7rnMUj0rYEQ_poIYCUW1gAiiHMqt0qi_bRWJZqpFyS6B2NXqootJ2p1QU0U7K9RfnkUUSmJDDYFC06N5mMQVyz0c6JLONnqKKcjGs1OUVbKETEmRSC0rbrEw6Rdjf6QOsoPIg_PUZ3IagvS4U0qHDQlwHdb0; path=/; expires=Tue, 01 Nov 2022 02:57:46 GMT, length:296] 
+{set|obj:[document] -> prop:[cookie],value:[1EzPGwRUoQaWT=Idddd6ddddedddddIddddn0CrsGxMw48Ermeul38WWody9ZuP6uxuXMw_vRl9W0PU6PadiRzt8NrcBk7rnMUj0rYEQ_poIYCUW1gAiiHMqt0qi_bRWJZqpFyS6B2NXqootJ2p1QU0U7K9RfnkUUSmJDDYFC06N5mMQVyz0c6JLONnqKKcjGs1OUVbKETEmRSC0rbrEw6Rdjf6QOsoPIg_PUZ3IagvS4U0qHDQlwHdb0; path=/; expires=Tue, 01 Nov 2022 02:57:46 GMT]} 
+{get|obj:[location] -> prop:[protocol],ret:[http:]} 
+{get|obj:[location] -> prop:[host],ret:[www.chinastock.com.cn]} 
+{get|obj:[location] -> prop:[href],ret:[http://www.chinastock.com.cn/newsite/cgs-services/stockFinance/businessAnnc.html?type=marginList]} 
+{get|obj:[location] -> prop:[search],ret:[?type=marginList]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36]} 
+{get|obj:[location] -> prop:[replace],type:[[object Function]]} 
+页面重新刷新,剩下异步任务全部取消 
+{apply|function:[location.replace], args:[http://www.chinastock.com.cn/newsite/cgs-services/stockFinance/businessAnnc.html?type=marginList], result:[undefined]} 
+setTimeout|0|func 事件正在执行 > _$h3 
+{set|obj:[window] -> prop:[$bf89a016$],type:[[object Function]]} 
+{get|obj:[document] -> prop:[createElement],type:[[object Function]]} 
+{apply|function:[document.createElement], args:[div], type:[[object HTMLDivElement]]} 
+{get|obj:[Document_createElement_div_162] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{set|obj:[style_165] -> prop:[fontFamily],value:[mmllii]} 
+{set|obj:[style_165] -> prop:[fontSize],value:[114px]} 
+{set|obj:[Document_createElement_div_162] -> prop:[innerHTML],value:[<span lang="zh" style="font-family:mmllii;font-size:114px">mmmmmmmmmmmlliii</span>]} 
+{get|obj:[document] -> prop:[body],ret:[null]} 
+{get|obj:[document] -> prop:[createElement],type:[[object Function]]} 
+{apply|function:[document.createElement], args:[canvas], type:[[object HTMLCanvasElement]]} 
+{get|obj:[Document_createElement_canvas_167] -> prop:[getContext],type:[[object Function]]} 
+{set|obj:[Document_createElement_canvas_167] -> prop:[width],value:[200]} 
+{set|obj:[Document_createElement_canvas_167] -> prop:[height],value:[50]} 
+{get|obj:[Document_createElement_canvas_167] -> prop:[getContext],type:[[object Function]]} 
+{apply|function:[Document_createElement_canvas_167.getContext], args:[2d], type:[[object CanvasRenderingContext2D]]} 
+{set|obj:[context_2d_169] -> prop:[textBaseline],value:[top]} 
+{set|obj:[context_2d_169] -> prop:[font],value:[18px 'Arial']} 
+{set|obj:[context_2d_169] -> prop:[fillStyle],value:[#f82]} 
+{get|obj:[context_2d_169] -> prop:[fillRect],type:[[object Function]]} 
+{apply|function:[context_2d_169.fillRect], args:[0,0,100,30], result:[undefined]} 
+{set|obj:[context_2d_169] -> prop:[fillStyle],value:[#17e]} 
+{get|obj:[context_2d_169] -> prop:[fillText],type:[[object Function]]} 
+{apply|function:[context_2d_169.fillText], args:[ActiveXObject,3,16], result:[undefined]} 
+{set|obj:[context_2d_169] -> prop:[fillStyle],value:[rgba(240,110,53,0.4)]} 
+{get|obj:[context_2d_169] -> prop:[fillText],type:[[object Function]]} 
+{apply|function:[context_2d_169.fillText], args:[ActiveXObject,5,18], result:[undefined]} 
+{get|obj:[Document_createElement_canvas_167] -> prop:[toDataURL],type:[[object Function]]} 
+{apply|function:[Document_createElement_canvas_167.toDataURL], args:[], result:[data:image/png;base64,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]} 
+setTimeout(_$eK,0) 正在注册 
+{get|obj:[document] -> prop:[createElement],type:[[object Function]]} 
+{apply|function:[document.createElement], args:[canvas], type:[[object HTMLCanvasElement]]} 
+{get|obj:[Document_createElement_canvas_171] -> prop:[getContext],type:[[object Function]]} 
+{apply|function:[Document_createElement_canvas_167.getContext], args:[webgl], type:[[object WebGLRenderingContext]]} 
+{get|obj:[context_webgl_173] -> prop:[createBuffer],type:[[object Function]]} 
+{apply|function:[context_webgl_173.createBuffer], args:[], type:[[object WebGLBuffer]]} 
+{get|obj:[context_webgl_173] -> prop:[ARRAY_BUFFER],ret:[34962]} 
+{get|obj:[context_webgl_173] -> prop:[bindBuffer],type:[[object Function]]} 
+{apply|function:[context_webgl_173.bindBuffer], args:[34962,[object WebGLBuffer]], result:[undefined]} 
+{get|obj:[window] -> prop:[Float32Array],type:[[object Function]]} 
+{get|obj:[window.Float32Array] -> prop:[prototype],type:[[object Object]]} 
+{construct|function:[window.Float32Array], type:[[object Float32Array]]} 
+{get|obj:[context_webgl_173] -> prop:[ARRAY_BUFFER],ret:[34962]} 
+{get|obj:[context_webgl_173] -> prop:[STATIC_DRAW],ret:[35044]} 
+{get|obj:[context_webgl_173] -> prop:[bufferData],type:[[object Function]]} 
+{apply|function:[context_webgl_173.bufferData], args:[34962,-0.20000000298023224,-0.8999999761581421,0,0.4000000059604645,-0.25999999046325684,0,0,0.8132645487785339,0,35044], result:[undefined]} 
+{set|obj:[buffer_175] -> prop:[itemSize],value:[3]} 
+{set|obj:[buffer_175] -> prop:[numItems],value:[3]} 
+{get|obj:[context_webgl_173] -> prop:[createProgram],type:[[object Function]]} 
+{apply|function:[context_webgl_173.createProgram], args:[], type:[[object WebGLProgram]]} 
+{get|obj:[context_webgl_173] -> prop:[VERTEX_SHADER],ret:[35633]} 
+{get|obj:[context_webgl_173] -> prop:[createShader],type:[[object Function]]} 
+{apply|function:[context_webgl_173.createShader], args:[35633], type:[[object WebGLShader]]} 
+{get|obj:[context_webgl_173] -> prop:[shaderSource],type:[[object Function]]} 
+{apply|function:[context_webgl_173.shaderSource], args:[[object WebGLShader],attribute vec2 attrVertex;varying vec2 varyinTexCoordinate;uniform vec2 uniformOffset;void main(){varyinTexCoordinate=attrVertex+uniformOffset;gl_Position=vec4(attrVertex,0,1);}], result:[undefined]} 
+{get|obj:[context_webgl_173] -> prop:[compileShader],type:[[object Function]]} 
+{apply|function:[context_webgl_173.compileShader], args:[[object WebGLShader]], result:[undefined]} 
+{get|obj:[context_webgl_173] -> prop:[FRAGMENT_SHADER],ret:[35632]} 
+{get|obj:[context_webgl_173] -> prop:[createShader],type:[[object Function]]} 
+{apply|function:[context_webgl_173.createShader], args:[35632], type:[[object WebGLShader]]} 
+{get|obj:[context_webgl_173] -> prop:[shaderSource],type:[[object Function]]} 
+{apply|function:[context_webgl_173.shaderSource], args:[[object WebGLShader],precision mediump float;varying vec2 varyinTexCoordinate;void main() {gl_FragColor=vec4(varyinTexCoordinate,0,1);}], result:[undefined]} 
+{get|obj:[context_webgl_173] -> prop:[compileShader],type:[[object Function]]} 
+{apply|function:[context_webgl_173.compileShader], args:[[object WebGLShader]], result:[undefined]} 
+{get|obj:[context_webgl_173] -> prop:[attachShader],type:[[object Function]]} 
+{apply|function:[context_webgl_173.attachShader], args:[[object WebGLProgram],[object WebGLShader]], result:[undefined]} 
+{get|obj:[context_webgl_173] -> prop:[attachShader],type:[[object Function]]} 
+{apply|function:[context_webgl_173.attachShader], args:[[object WebGLProgram],[object WebGLShader]], result:[undefined]} 
+{get|obj:[context_webgl_173] -> prop:[linkProgram],type:[[object Function]]} 
+{apply|function:[context_webgl_173.linkProgram], args:[[object WebGLProgram]], result:[undefined]} 
+{get|obj:[context_webgl_173] -> prop:[useProgram],type:[[object Function]]} 
+{apply|function:[context_webgl_173.useProgram], args:[[object WebGLProgram]], result:[undefined]} 
+{get|obj:[context_webgl_173] -> prop:[getAttribLocation],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getAttribLocation], args:[[object WebGLProgram],attrVertex], result:[0]} 
+{set|obj:[program_177] -> prop:[vertexPosAttrib],value:[0]} 
+{get|obj:[context_webgl_173] -> prop:[getUniformLocation],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getUniformLocation], args:[[object WebGLProgram],uniformOffset], type:[[object WebGLUniformLocation]]} 
+{set|obj:[program_177] -> prop:[offsetUniform],type:[[object WebGLUniformLocation]]} 
+{get|obj:[program_177] -> prop:[vertexPosArray],ret:[undefined]} 
+{get|obj:[context_webgl_173] -> prop:[enableVertexAttribArray],type:[[object Function]]} 
+{apply|function:[context_webgl_173.enableVertexAttribArray], args:[], result:[undefined]} 
+{get|obj:[program_177] -> prop:[vertexPosAttrib],ret:[0]} 
+{get|obj:[buffer_175] -> prop:[itemSize],ret:[3]} 
+{get|obj:[context_webgl_173] -> prop:[FLOAT],ret:[5126]} 
+{get|obj:[context_webgl_173] -> prop:[vertexAttribPointer],type:[[object Function]]} 
+{get|obj:[context_webgl_173.vertexAttribPointer] -> prop:[apply],type:[[object Function]]} 
+{apply|function:[context_webgl_173.vertexAttribPointer], args:[0,3,5126,false,0,0], result:[undefined]} 
+{apply|function:[context_webgl_173.vertexAttribPointer.apply], args:[[object WebGLRenderingContext],0,3,5126,false,0,0], result:[undefined]} 
+{get|obj:[program_177] -> prop:[offsetUniform],type:[[object WebGLUniformLocation]]} 
+{get|obj:[context_webgl_173] -> prop:[uniform2f],type:[[object Function]]} 
+{apply|function:[context_webgl_173.uniform2f], args:[[object WebGLUniformLocation],1,1], result:[undefined]} 
+{get|obj:[context_webgl_173] -> prop:[TRIANGLE_STRIP],ret:[5]} 
+{get|obj:[buffer_175] -> prop:[numItems],ret:[3]} 
+{get|obj:[context_webgl_173] -> prop:[drawArrays],type:[[object Function]]} 
+{apply|function:[context_webgl_173.drawArrays], args:[5,0,3], result:[undefined]} 
+{get|obj:[context_webgl_173] -> prop:[canvas],type:[[object HTMLCanvasElement]]} 
+{get|obj:[context_webgl_173] -> prop:[canvas],type:[[object HTMLCanvasElement]]} 
+{get|obj:[Document_createElement_canvas_171] -> prop:[toDataURL],type:[[object Function]]} 
+{apply|function:[Document_createElement_canvas_167.toDataURL], args:[], result:[data:image/png;base64,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]} 
+{get|obj:[context_webgl_173] -> prop:[getSupportedExtensions],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getSupportedExtensions], args:[], type:[[object Array]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[0],ret:[ANGLE_instanced_arrays]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[ANGLE_instanced_arrays], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[1],ret:[EXT_blend_minmax]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[EXT_blend_minmax], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[2],ret:[EXT_color_buffer_half_float]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[EXT_color_buffer_half_float], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[3],ret:[EXT_disjoint_timer_query]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[EXT_disjoint_timer_query], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[4],ret:[EXT_float_blend]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[EXT_float_blend], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[5],ret:[EXT_frag_depth]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[EXT_frag_depth], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[6],ret:[EXT_shader_texture_lod]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[EXT_shader_texture_lod], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[7],ret:[EXT_texture_compression_rgtc]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[EXT_texture_compression_rgtc], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[8],ret:[EXT_texture_filter_anisotropic]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[EXT_texture_filter_anisotropic], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[9],ret:[EXT_sRGB]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[EXT_sRGB], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[10],ret:[KHR_parallel_shader_compile]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[KHR_parallel_shader_compile], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[11],ret:[OES_element_index_uint]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[OES_element_index_uint], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[12],ret:[OES_fbo_render_mipmap]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[OES_fbo_render_mipmap], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[13],ret:[OES_standard_derivatives]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[OES_standard_derivatives], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[14],ret:[OES_texture_float]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[OES_texture_float], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[15],ret:[OES_texture_float_linear]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[OES_texture_float_linear], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[16],ret:[OES_texture_half_float]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[OES_texture_half_float], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[17],ret:[OES_texture_half_float_linear]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[OES_texture_half_float_linear], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[18],ret:[OES_vertex_array_object]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[OES_vertex_array_object], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[19],ret:[WEBGL_color_buffer_float]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[WEBGL_color_buffer_float], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[20],ret:[WEBGL_compressed_texture_s3tc]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[WEBGL_compressed_texture_s3tc], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[21],ret:[WEBGL_compressed_texture_s3tc_srgb]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[WEBGL_compressed_texture_s3tc_srgb], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[22],ret:[WEBGL_debug_renderer_info]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[WEBGL_debug_renderer_info], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[23],ret:[WEBGL_debug_shaders]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[WEBGL_debug_shaders], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[24],ret:[WEBGL_depth_texture]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[WEBGL_depth_texture], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[25],ret:[WEBGL_draw_buffers]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[WEBGL_draw_buffers], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[26],ret:[WEBGL_lose_context]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[WEBGL_lose_context], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[27],ret:[WEBGL_multi_draw]} 
+{get|obj:[context_webgl_173] -> prop:[getExtension],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getExtension], args:[WEBGL_multi_draw], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getSupportedExtensions_obj185] -> prop:[length],ret:[28]} 
+{get|obj:[context_webgl_173] -> prop:[DEPTH_BUFFER_BIT],ret:[256]} 
+{get|obj:[context_webgl_173] -> prop:[STENCIL_BUFFER_BIT],ret:[1024]} 
+{get|obj:[context_webgl_173] -> prop:[COLOR_BUFFER_BIT],ret:[16384]} 
+{get|obj:[context_webgl_173] -> prop:[POINTS],ret:[0]} 
+{get|obj:[context_webgl_173] -> prop:[LINES],ret:[1]} 
+{get|obj:[context_webgl_173] -> prop:[LINE_LOOP],ret:[2]} 
+{get|obj:[context_webgl_173] -> prop:[LINE_STRIP],ret:[3]} 
+{get|obj:[context_webgl_173] -> prop:[TRIANGLES],ret:[4]} 
+{get|obj:[context_webgl_173] -> prop:[TRIANGLE_STRIP],ret:[5]} 
+{get|obj:[context_webgl_173] -> prop:[TRIANGLE_FAN],ret:[6]} 
+{get|obj:[context_webgl_173] -> prop:[ZERO],ret:[0]} 
+{get|obj:[context_webgl_173] -> prop:[ONE],ret:[1]} 
+{get|obj:[context_webgl_173] -> prop:[SRC_COLOR],ret:[768]} 
+{get|obj:[context_webgl_173] -> prop:[ONE_MINUS_SRC_COLOR],ret:[769]} 
+{get|obj:[context_webgl_173] -> prop:[SRC_ALPHA],ret:[770]} 
+{get|obj:[context_webgl_173] -> prop:[ONE_MINUS_SRC_ALPHA],ret:[771]} 
+{get|obj:[context_webgl_173] -> prop:[DST_ALPHA],ret:[772]} 
+{get|obj:[context_webgl_173] -> prop:[ONE_MINUS_DST_ALPHA],ret:[773]} 
+{get|obj:[context_webgl_173] -> prop:[DST_COLOR],ret:[774]} 
+{get|obj:[context_webgl_173] -> prop:[ONE_MINUS_DST_COLOR],ret:[775]} 
+{get|obj:[context_webgl_173] -> prop:[SRC_ALPHA_SATURATE],ret:[776]} 
+{get|obj:[context_webgl_173] -> prop:[FUNC_ADD],ret:[32774]} 
+{get|obj:[context_webgl_173] -> prop:[BLEND_EQUATION],ret:[32777]} 
+{get|obj:[context_webgl_173] -> prop:[BLEND_EQUATION_RGB],ret:[32777]} 
+{get|obj:[context_webgl_173] -> prop:[BLEND_EQUATION_ALPHA],ret:[34877]} 
+{get|obj:[context_webgl_173] -> prop:[FUNC_SUBTRACT],ret:[32778]} 
+{get|obj:[context_webgl_173] -> prop:[FUNC_REVERSE_SUBTRACT],ret:[32779]} 
+{get|obj:[context_webgl_173] -> prop:[BLEND_DST_RGB],ret:[32968]} 
+{get|obj:[context_webgl_173] -> prop:[BLEND_SRC_RGB],ret:[32969]} 
+{get|obj:[context_webgl_173] -> prop:[BLEND_DST_ALPHA],ret:[32970]} 
+{get|obj:[context_webgl_173] -> prop:[BLEND_SRC_ALPHA],ret:[32971]} 
+{get|obj:[context_webgl_173] -> prop:[CONSTANT_COLOR],ret:[32769]} 
+{get|obj:[context_webgl_173] -> prop:[ONE_MINUS_CONSTANT_COLOR],ret:[32770]} 
+{get|obj:[context_webgl_173] -> prop:[CONSTANT_ALPHA],ret:[32771]} 
+{get|obj:[context_webgl_173] -> prop:[ONE_MINUS_CONSTANT_ALPHA],ret:[32772]} 
+{get|obj:[context_webgl_173] -> prop:[BLEND_COLOR],ret:[32773]} 
+{get|obj:[context_webgl_173] -> prop:[ARRAY_BUFFER],ret:[34962]} 
+{get|obj:[context_webgl_173] -> prop:[ELEMENT_ARRAY_BUFFER],ret:[34963]} 
+{get|obj:[context_webgl_173] -> prop:[ARRAY_BUFFER_BINDING],ret:[34964]} 
+{get|obj:[context_webgl_173] -> prop:[ELEMENT_ARRAY_BUFFER_BINDING],ret:[34965]} 
+{get|obj:[context_webgl_173] -> prop:[STREAM_DRAW],ret:[35040]} 
+{get|obj:[context_webgl_173] -> prop:[STATIC_DRAW],ret:[35044]} 
+{get|obj:[context_webgl_173] -> prop:[DYNAMIC_DRAW],ret:[35048]} 
+{get|obj:[context_webgl_173] -> prop:[BUFFER_SIZE],ret:[34660]} 
+{get|obj:[context_webgl_173] -> prop:[BUFFER_USAGE],ret:[34661]} 
+{get|obj:[context_webgl_173] -> prop:[CURRENT_VERTEX_ATTRIB],ret:[34342]} 
+{get|obj:[context_webgl_173] -> prop:[FRONT],ret:[1028]} 
+{get|obj:[context_webgl_173] -> prop:[BACK],ret:[1029]} 
+{get|obj:[context_webgl_173] -> prop:[FRONT_AND_BACK],ret:[1032]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE_2D],ret:[3553]} 
+{get|obj:[context_webgl_173] -> prop:[CULL_FACE],ret:[2884]} 
+{get|obj:[context_webgl_173] -> prop:[BLEND],ret:[3042]} 
+{get|obj:[context_webgl_173] -> prop:[DITHER],ret:[3024]} 
+{get|obj:[context_webgl_173] -> prop:[STENCIL_TEST],ret:[2960]} 
+{get|obj:[context_webgl_173] -> prop:[DEPTH_TEST],ret:[2929]} 
+{get|obj:[context_webgl_173] -> prop:[SCISSOR_TEST],ret:[3089]} 
+{get|obj:[context_webgl_173] -> prop:[POLYGON_OFFSET_FILL],ret:[32823]} 
+{get|obj:[context_webgl_173] -> prop:[SAMPLE_ALPHA_TO_COVERAGE],ret:[32926]} 
+{get|obj:[context_webgl_173] -> prop:[SAMPLE_COVERAGE],ret:[32928]} 
+{get|obj:[context_webgl_173] -> prop:[NO_ERROR],ret:[0]} 
+{get|obj:[context_webgl_173] -> prop:[INVALID_ENUM],ret:[1280]} 
+{get|obj:[context_webgl_173] -> prop:[INVALID_VALUE],ret:[1281]} 
+{get|obj:[context_webgl_173] -> prop:[INVALID_OPERATION],ret:[1282]} 
+{get|obj:[context_webgl_173] -> prop:[OUT_OF_MEMORY],ret:[1285]} 
+{get|obj:[context_webgl_173] -> prop:[CW],ret:[2304]} 
+{get|obj:[context_webgl_173] -> prop:[CCW],ret:[2305]} 
+{get|obj:[context_webgl_173] -> prop:[LINE_WIDTH],ret:[2849]} 
+{get|obj:[context_webgl_173] -> prop:[ALIASED_POINT_SIZE_RANGE],ret:[33901]} 
+{get|obj:[context_webgl_173] -> prop:[ALIASED_LINE_WIDTH_RANGE],ret:[33902]} 
+{get|obj:[context_webgl_173] -> prop:[CULL_FACE_MODE],ret:[2885]} 
+{get|obj:[context_webgl_173] -> prop:[FRONT_FACE],ret:[2886]} 
+{get|obj:[context_webgl_173] -> prop:[DEPTH_RANGE],ret:[2928]} 
+{get|obj:[context_webgl_173] -> prop:[DEPTH_WRITEMASK],ret:[2930]} 
+{get|obj:[context_webgl_173] -> prop:[DEPTH_CLEAR_VALUE],ret:[2931]} 
+{get|obj:[context_webgl_173] -> prop:[DEPTH_FUNC],ret:[2932]} 
+{get|obj:[context_webgl_173] -> prop:[STENCIL_CLEAR_VALUE],ret:[2961]} 
+{get|obj:[context_webgl_173] -> prop:[STENCIL_FUNC],ret:[2962]} 
+{get|obj:[context_webgl_173] -> prop:[STENCIL_FAIL],ret:[2964]} 
+{get|obj:[context_webgl_173] -> prop:[STENCIL_PASS_DEPTH_FAIL],ret:[2965]} 
+{get|obj:[context_webgl_173] -> prop:[STENCIL_PASS_DEPTH_PASS],ret:[2966]} 
+{get|obj:[context_webgl_173] -> prop:[STENCIL_REF],ret:[2967]} 
+{get|obj:[context_webgl_173] -> prop:[STENCIL_VALUE_MASK],ret:[2963]} 
+{get|obj:[context_webgl_173] -> prop:[STENCIL_WRITEMASK],ret:[2968]} 
+{get|obj:[context_webgl_173] -> prop:[STENCIL_BACK_FUNC],ret:[34816]} 
+{get|obj:[context_webgl_173] -> prop:[STENCIL_BACK_FAIL],ret:[34817]} 
+{get|obj:[context_webgl_173] -> prop:[STENCIL_BACK_PASS_DEPTH_FAIL],ret:[34818]} 
+{get|obj:[context_webgl_173] -> prop:[STENCIL_BACK_PASS_DEPTH_PASS],ret:[34819]} 
+{get|obj:[context_webgl_173] -> prop:[STENCIL_BACK_REF],ret:[36003]} 
+{get|obj:[context_webgl_173] -> prop:[STENCIL_BACK_VALUE_MASK],ret:[36004]} 
+{get|obj:[context_webgl_173] -> prop:[STENCIL_BACK_WRITEMASK],ret:[36005]} 
+{get|obj:[context_webgl_173] -> prop:[VIEWPORT],ret:[2978]} 
+{get|obj:[context_webgl_173] -> prop:[SCISSOR_BOX],ret:[3088]} 
+{get|obj:[context_webgl_173] -> prop:[COLOR_CLEAR_VALUE],ret:[3106]} 
+{get|obj:[context_webgl_173] -> prop:[COLOR_WRITEMASK],ret:[3107]} 
+{get|obj:[context_webgl_173] -> prop:[UNPACK_ALIGNMENT],ret:[3317]} 
+{get|obj:[context_webgl_173] -> prop:[PACK_ALIGNMENT],ret:[3333]} 
+{get|obj:[context_webgl_173] -> prop:[MAX_TEXTURE_SIZE],ret:[3379]} 
+{get|obj:[context_webgl_173] -> prop:[MAX_VIEWPORT_DIMS],ret:[3386]} 
+{get|obj:[context_webgl_173] -> prop:[SUBPIXEL_BITS],ret:[3408]} 
+{get|obj:[context_webgl_173] -> prop:[RED_BITS],ret:[3410]} 
+{get|obj:[context_webgl_173] -> prop:[GREEN_BITS],ret:[3411]} 
+{get|obj:[context_webgl_173] -> prop:[BLUE_BITS],ret:[3412]} 
+{get|obj:[context_webgl_173] -> prop:[ALPHA_BITS],ret:[3413]} 
+{get|obj:[context_webgl_173] -> prop:[DEPTH_BITS],ret:[3414]} 
+{get|obj:[context_webgl_173] -> prop:[STENCIL_BITS],ret:[3415]} 
+{get|obj:[context_webgl_173] -> prop:[POLYGON_OFFSET_UNITS],ret:[10752]} 
+{get|obj:[context_webgl_173] -> prop:[POLYGON_OFFSET_FACTOR],ret:[32824]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE_BINDING_2D],ret:[32873]} 
+{get|obj:[context_webgl_173] -> prop:[SAMPLE_BUFFERS],ret:[32936]} 
+{get|obj:[context_webgl_173] -> prop:[SAMPLES],ret:[32937]} 
+{get|obj:[context_webgl_173] -> prop:[SAMPLE_COVERAGE_VALUE],ret:[32938]} 
+{get|obj:[context_webgl_173] -> prop:[SAMPLE_COVERAGE_INVERT],ret:[32939]} 
+{get|obj:[context_webgl_173] -> prop:[COMPRESSED_TEXTURE_FORMATS],ret:[34467]} 
+{get|obj:[context_webgl_173] -> prop:[DONT_CARE],ret:[4352]} 
+{get|obj:[context_webgl_173] -> prop:[FASTEST],ret:[4353]} 
+{get|obj:[context_webgl_173] -> prop:[NICEST],ret:[4354]} 
+{get|obj:[context_webgl_173] -> prop:[GENERATE_MIPMAP_HINT],ret:[33170]} 
+{get|obj:[context_webgl_173] -> prop:[BYTE],ret:[5120]} 
+{get|obj:[context_webgl_173] -> prop:[UNSIGNED_BYTE],ret:[5121]} 
+{get|obj:[context_webgl_173] -> prop:[SHORT],ret:[5122]} 
+{get|obj:[context_webgl_173] -> prop:[UNSIGNED_SHORT],ret:[5123]} 
+{get|obj:[context_webgl_173] -> prop:[INT],ret:[5124]} 
+{get|obj:[context_webgl_173] -> prop:[UNSIGNED_INT],ret:[5125]} 
+{get|obj:[context_webgl_173] -> prop:[FLOAT],ret:[5126]} 
+{get|obj:[context_webgl_173] -> prop:[DEPTH_COMPONENT],ret:[6402]} 
+{get|obj:[context_webgl_173] -> prop:[ALPHA],ret:[6406]} 
+{get|obj:[context_webgl_173] -> prop:[RGB],ret:[6407]} 
+{get|obj:[context_webgl_173] -> prop:[RGBA],ret:[6408]} 
+{get|obj:[context_webgl_173] -> prop:[LUMINANCE],ret:[6409]} 
+{get|obj:[context_webgl_173] -> prop:[LUMINANCE_ALPHA],ret:[6410]} 
+{get|obj:[context_webgl_173] -> prop:[UNSIGNED_SHORT_4_4_4_4],ret:[32819]} 
+{get|obj:[context_webgl_173] -> prop:[UNSIGNED_SHORT_5_5_5_1],ret:[32820]} 
+{get|obj:[context_webgl_173] -> prop:[UNSIGNED_SHORT_5_6_5],ret:[33635]} 
+{get|obj:[context_webgl_173] -> prop:[FRAGMENT_SHADER],ret:[35632]} 
+{get|obj:[context_webgl_173] -> prop:[VERTEX_SHADER],ret:[35633]} 
+{get|obj:[context_webgl_173] -> prop:[MAX_VERTEX_ATTRIBS],ret:[34921]} 
+{get|obj:[context_webgl_173] -> prop:[MAX_VERTEX_UNIFORM_VECTORS],ret:[36347]} 
+{get|obj:[context_webgl_173] -> prop:[MAX_VARYING_VECTORS],ret:[36348]} 
+{get|obj:[context_webgl_173] -> prop:[MAX_COMBINED_TEXTURE_IMAGE_UNITS],ret:[35661]} 
+{get|obj:[context_webgl_173] -> prop:[MAX_VERTEX_TEXTURE_IMAGE_UNITS],ret:[35660]} 
+{get|obj:[context_webgl_173] -> prop:[MAX_TEXTURE_IMAGE_UNITS],ret:[34930]} 
+{get|obj:[context_webgl_173] -> prop:[MAX_FRAGMENT_UNIFORM_VECTORS],ret:[36349]} 
+{get|obj:[context_webgl_173] -> prop:[SHADER_TYPE],ret:[35663]} 
+{get|obj:[context_webgl_173] -> prop:[DELETE_STATUS],ret:[35712]} 
+{get|obj:[context_webgl_173] -> prop:[LINK_STATUS],ret:[35714]} 
+{get|obj:[context_webgl_173] -> prop:[VALIDATE_STATUS],ret:[35715]} 
+{get|obj:[context_webgl_173] -> prop:[ATTACHED_SHADERS],ret:[35717]} 
+{get|obj:[context_webgl_173] -> prop:[ACTIVE_UNIFORMS],ret:[35718]} 
+{get|obj:[context_webgl_173] -> prop:[ACTIVE_ATTRIBUTES],ret:[35721]} 
+{get|obj:[context_webgl_173] -> prop:[SHADING_LANGUAGE_VERSION],ret:[35724]} 
+{get|obj:[context_webgl_173] -> prop:[CURRENT_PROGRAM],ret:[35725]} 
+{get|obj:[context_webgl_173] -> prop:[NEVER],ret:[512]} 
+{get|obj:[context_webgl_173] -> prop:[LESS],ret:[513]} 
+{get|obj:[context_webgl_173] -> prop:[EQUAL],ret:[514]} 
+{get|obj:[context_webgl_173] -> prop:[LEQUAL],ret:[515]} 
+{get|obj:[context_webgl_173] -> prop:[GREATER],ret:[516]} 
+{get|obj:[context_webgl_173] -> prop:[NOTEQUAL],ret:[517]} 
+{get|obj:[context_webgl_173] -> prop:[GEQUAL],ret:[518]} 
+{get|obj:[context_webgl_173] -> prop:[ALWAYS],ret:[519]} 
+{get|obj:[context_webgl_173] -> prop:[KEEP],ret:[7680]} 
+{get|obj:[context_webgl_173] -> prop:[REPLACE],ret:[7681]} 
+{get|obj:[context_webgl_173] -> prop:[INCR],ret:[7682]} 
+{get|obj:[context_webgl_173] -> prop:[DECR],ret:[7683]} 
+{get|obj:[context_webgl_173] -> prop:[INVERT],ret:[5386]} 
+{get|obj:[context_webgl_173] -> prop:[INCR_WRAP],ret:[34055]} 
+{get|obj:[context_webgl_173] -> prop:[DECR_WRAP],ret:[34056]} 
+{get|obj:[context_webgl_173] -> prop:[VENDOR],ret:[7936]} 
+{get|obj:[context_webgl_173] -> prop:[RENDERER],ret:[7937]} 
+{get|obj:[context_webgl_173] -> prop:[VERSION],ret:[7938]} 
+{get|obj:[context_webgl_173] -> prop:[NEAREST],ret:[9728]} 
+{get|obj:[context_webgl_173] -> prop:[LINEAR],ret:[9729]} 
+{get|obj:[context_webgl_173] -> prop:[NEAREST_MIPMAP_NEAREST],ret:[9984]} 
+{get|obj:[context_webgl_173] -> prop:[LINEAR_MIPMAP_NEAREST],ret:[9985]} 
+{get|obj:[context_webgl_173] -> prop:[NEAREST_MIPMAP_LINEAR],ret:[9986]} 
+{get|obj:[context_webgl_173] -> prop:[LINEAR_MIPMAP_LINEAR],ret:[9987]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE_MAG_FILTER],ret:[10240]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE_MIN_FILTER],ret:[10241]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE_WRAP_S],ret:[10242]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE_WRAP_T],ret:[10243]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE],ret:[5890]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE_CUBE_MAP],ret:[34067]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE_BINDING_CUBE_MAP],ret:[34068]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE_CUBE_MAP_POSITIVE_X],ret:[34069]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE_CUBE_MAP_NEGATIVE_X],ret:[34070]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE_CUBE_MAP_POSITIVE_Y],ret:[34071]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE_CUBE_MAP_NEGATIVE_Y],ret:[34072]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE_CUBE_MAP_POSITIVE_Z],ret:[34073]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE_CUBE_MAP_NEGATIVE_Z],ret:[34074]} 
+{get|obj:[context_webgl_173] -> prop:[MAX_CUBE_MAP_TEXTURE_SIZE],ret:[34076]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE0],ret:[33984]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE1],ret:[33985]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE2],ret:[33986]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE3],ret:[33987]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE4],ret:[33988]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE5],ret:[33989]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE6],ret:[33990]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE7],ret:[33991]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE8],ret:[33992]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE9],ret:[33993]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE10],ret:[33994]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE11],ret:[33995]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE12],ret:[33996]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE13],ret:[33997]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE14],ret:[33998]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE15],ret:[33999]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE16],ret:[34000]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE17],ret:[34001]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE18],ret:[34002]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE19],ret:[34003]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE20],ret:[34004]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE21],ret:[34005]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE22],ret:[34006]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE23],ret:[34007]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE24],ret:[34008]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE25],ret:[34009]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE26],ret:[34010]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE27],ret:[34011]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE28],ret:[34012]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE29],ret:[34013]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE30],ret:[34014]} 
+{get|obj:[context_webgl_173] -> prop:[TEXTURE31],ret:[34015]} 
+{get|obj:[context_webgl_173] -> prop:[ACTIVE_TEXTURE],ret:[34016]} 
+{get|obj:[context_webgl_173] -> prop:[REPEAT],ret:[10497]} 
+{get|obj:[context_webgl_173] -> prop:[CLAMP_TO_EDGE],ret:[33071]} 
+{get|obj:[context_webgl_173] -> prop:[MIRRORED_REPEAT],ret:[33648]} 
+{get|obj:[context_webgl_173] -> prop:[FLOAT_VEC2],ret:[35664]} 
+{get|obj:[context_webgl_173] -> prop:[FLOAT_VEC3],ret:[35665]} 
+{get|obj:[context_webgl_173] -> prop:[FLOAT_VEC4],ret:[35666]} 
+{get|obj:[context_webgl_173] -> prop:[INT_VEC2],ret:[35667]} 
+{get|obj:[context_webgl_173] -> prop:[INT_VEC3],ret:[35668]} 
+{get|obj:[context_webgl_173] -> prop:[INT_VEC4],ret:[35669]} 
+{get|obj:[context_webgl_173] -> prop:[BOOL],ret:[35670]} 
+{get|obj:[context_webgl_173] -> prop:[BOOL_VEC2],ret:[35671]} 
+{get|obj:[context_webgl_173] -> prop:[BOOL_VEC3],ret:[35672]} 
+{get|obj:[context_webgl_173] -> prop:[BOOL_VEC4],ret:[35673]} 
+{get|obj:[context_webgl_173] -> prop:[FLOAT_MAT2],ret:[35674]} 
+{get|obj:[context_webgl_173] -> prop:[FLOAT_MAT3],ret:[35675]} 
+{get|obj:[context_webgl_173] -> prop:[FLOAT_MAT4],ret:[35676]} 
+{get|obj:[context_webgl_173] -> prop:[SAMPLER_2D],ret:[35678]} 
+{get|obj:[context_webgl_173] -> prop:[SAMPLER_CUBE],ret:[35680]} 
+{get|obj:[context_webgl_173] -> prop:[VERTEX_ATTRIB_ARRAY_ENABLED],ret:[34338]} 
+{get|obj:[context_webgl_173] -> prop:[VERTEX_ATTRIB_ARRAY_SIZE],ret:[34339]} 
+{get|obj:[context_webgl_173] -> prop:[VERTEX_ATTRIB_ARRAY_STRIDE],ret:[34340]} 
+{get|obj:[context_webgl_173] -> prop:[VERTEX_ATTRIB_ARRAY_TYPE],ret:[34341]} 
+{get|obj:[context_webgl_173] -> prop:[VERTEX_ATTRIB_ARRAY_NORMALIZED],ret:[34922]} 
+{get|obj:[context_webgl_173] -> prop:[VERTEX_ATTRIB_ARRAY_POINTER],ret:[34373]} 
+{get|obj:[context_webgl_173] -> prop:[VERTEX_ATTRIB_ARRAY_BUFFER_BINDING],ret:[34975]} 
+{get|obj:[context_webgl_173] -> prop:[IMPLEMENTATION_COLOR_READ_TYPE],ret:[35738]} 
+{get|obj:[context_webgl_173] -> prop:[IMPLEMENTATION_COLOR_READ_FORMAT],ret:[35739]} 
+{get|obj:[context_webgl_173] -> prop:[COMPILE_STATUS],ret:[35713]} 
+{get|obj:[context_webgl_173] -> prop:[LOW_FLOAT],ret:[36336]} 
+{get|obj:[context_webgl_173] -> prop:[MEDIUM_FLOAT],ret:[36337]} 
+{get|obj:[context_webgl_173] -> prop:[HIGH_FLOAT],ret:[36338]} 
+{get|obj:[context_webgl_173] -> prop:[LOW_INT],ret:[36339]} 
+{get|obj:[context_webgl_173] -> prop:[MEDIUM_INT],ret:[36340]} 
+{get|obj:[context_webgl_173] -> prop:[HIGH_INT],ret:[36341]} 
+{get|obj:[context_webgl_173] -> prop:[FRAMEBUFFER],ret:[36160]} 
+{get|obj:[context_webgl_173] -> prop:[RENDERBUFFER],ret:[36161]} 
+{get|obj:[context_webgl_173] -> prop:[RGBA4],ret:[32854]} 
+{get|obj:[context_webgl_173] -> prop:[RGB5_A1],ret:[32855]} 
+{get|obj:[context_webgl_173] -> prop:[RGB565],ret:[36194]} 
+{get|obj:[context_webgl_173] -> prop:[DEPTH_COMPONENT16],ret:[33189]} 
+{get|obj:[context_webgl_173] -> prop:[STENCIL_INDEX8],ret:[36168]} 
+{get|obj:[context_webgl_173] -> prop:[DEPTH_STENCIL],ret:[34041]} 
+{get|obj:[context_webgl_173] -> prop:[RENDERBUFFER_WIDTH],ret:[36162]} 
+{get|obj:[context_webgl_173] -> prop:[RENDERBUFFER_HEIGHT],ret:[36163]} 
+{get|obj:[context_webgl_173] -> prop:[RENDERBUFFER_INTERNAL_FORMAT],ret:[36164]} 
+{get|obj:[context_webgl_173] -> prop:[RENDERBUFFER_RED_SIZE],ret:[36176]} 
+{get|obj:[context_webgl_173] -> prop:[RENDERBUFFER_GREEN_SIZE],ret:[36177]} 
+{get|obj:[context_webgl_173] -> prop:[RENDERBUFFER_BLUE_SIZE],ret:[36178]} 
+{get|obj:[context_webgl_173] -> prop:[RENDERBUFFER_ALPHA_SIZE],ret:[36179]} 
+{get|obj:[context_webgl_173] -> prop:[RENDERBUFFER_DEPTH_SIZE],ret:[36180]} 
+{get|obj:[context_webgl_173] -> prop:[RENDERBUFFER_STENCIL_SIZE],ret:[36181]} 
+{get|obj:[context_webgl_173] -> prop:[FRAMEBUFFER_ATTACHMENT_OBJECT_TYPE],ret:[36048]} 
+{get|obj:[context_webgl_173] -> prop:[FRAMEBUFFER_ATTACHMENT_OBJECT_NAME],ret:[36049]} 
+{get|obj:[context_webgl_173] -> prop:[FRAMEBUFFER_ATTACHMENT_TEXTURE_LEVEL],ret:[36050]} 
+{get|obj:[context_webgl_173] -> prop:[FRAMEBUFFER_ATTACHMENT_TEXTURE_CUBE_MAP_FACE],ret:[36051]} 
+{get|obj:[context_webgl_173] -> prop:[COLOR_ATTACHMENT0],ret:[36064]} 
+{get|obj:[context_webgl_173] -> prop:[DEPTH_ATTACHMENT],ret:[36096]} 
+{get|obj:[context_webgl_173] -> prop:[STENCIL_ATTACHMENT],ret:[36128]} 
+{get|obj:[context_webgl_173] -> prop:[DEPTH_STENCIL_ATTACHMENT],ret:[33306]} 
+{get|obj:[context_webgl_173] -> prop:[NONE],ret:[0]} 
+{get|obj:[context_webgl_173] -> prop:[FRAMEBUFFER_COMPLETE],ret:[36053]} 
+{get|obj:[context_webgl_173] -> prop:[FRAMEBUFFER_INCOMPLETE_ATTACHMENT],ret:[36054]} 
+{get|obj:[context_webgl_173] -> prop:[FRAMEBUFFER_INCOMPLETE_MISSING_ATTACHMENT],ret:[36055]} 
+{get|obj:[context_webgl_173] -> prop:[FRAMEBUFFER_INCOMPLETE_DIMENSIONS],ret:[36057]} 
+{get|obj:[context_webgl_173] -> prop:[FRAMEBUFFER_UNSUPPORTED],ret:[36061]} 
+{get|obj:[context_webgl_173] -> prop:[FRAMEBUFFER_BINDING],ret:[36006]} 
+{get|obj:[context_webgl_173] -> prop:[RENDERBUFFER_BINDING],ret:[36007]} 
+{get|obj:[context_webgl_173] -> prop:[MAX_RENDERBUFFER_SIZE],ret:[34024]} 
+{get|obj:[context_webgl_173] -> prop:[INVALID_FRAMEBUFFER_OPERATION],ret:[1286]} 
+{get|obj:[context_webgl_173] -> prop:[UNPACK_FLIP_Y_WEBGL],ret:[37440]} 
+{get|obj:[context_webgl_173] -> prop:[UNPACK_PREMULTIPLY_ALPHA_WEBGL],ret:[37441]} 
+{get|obj:[context_webgl_173] -> prop:[CONTEXT_LOST_WEBGL],ret:[37442]} 
+{get|obj:[context_webgl_173] -> prop:[UNPACK_COLORSPACE_CONVERSION_WEBGL],ret:[37443]} 
+{get|obj:[context_webgl_173] -> prop:[BROWSER_DEFAULT_WEBGL],ret:[37444]} 
+{get|obj:[context_webgl_173] -> prop:[getShaderPrecisionFormat],type:[[object Function]]} 
+{get|obj:[context_webgl_173] -> prop:[VERTEX_SHADER],ret:[35633]} 
+{get|obj:[context_webgl_173] -> prop:[FRAGMENT_SHADER],ret:[35632]} 
+{get|obj:[context_webgl_173] -> prop:[HIGH_FLOAT],ret:[36338]} 
+{get|obj:[context_webgl_173] -> prop:[MEDIUM_FLOAT],ret:[36337]} 
+{get|obj:[context_webgl_173] -> prop:[LOW_FLOAT],ret:[36336]} 
+{get|obj:[context_webgl_173] -> prop:[HIGH_INT],ret:[36341]} 
+{get|obj:[context_webgl_173] -> prop:[MEDIUM_INT],ret:[36340]} 
+{get|obj:[context_webgl_173] -> prop:[LOW_INT],ret:[36339]} 
+{get|obj:[context_webgl_173] -> prop:[getShaderPrecisionFormat],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getShaderPrecisionFormat], args:[35633,36338], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj214] -> prop:[rangeMin],ret:[127]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj214] -> prop:[rangeMax],ret:[127]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj214] -> prop:[precision],ret:[23]} 
+{get|obj:[context_webgl_173] -> prop:[getShaderPrecisionFormat],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getShaderPrecisionFormat], args:[35633,36337], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj215] -> prop:[rangeMin],ret:[127]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj215] -> prop:[rangeMax],ret:[127]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj215] -> prop:[precision],ret:[23]} 
+{get|obj:[context_webgl_173] -> prop:[getShaderPrecisionFormat],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getShaderPrecisionFormat], args:[35633,36336], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj216] -> prop:[rangeMin],ret:[127]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj216] -> prop:[rangeMax],ret:[127]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj216] -> prop:[precision],ret:[23]} 
+{get|obj:[context_webgl_173] -> prop:[getShaderPrecisionFormat],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getShaderPrecisionFormat], args:[35633,36341], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj217] -> prop:[rangeMin],ret:[31]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj217] -> prop:[rangeMax],ret:[30]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj217] -> prop:[precision],ret:[0]} 
+{get|obj:[context_webgl_173] -> prop:[getShaderPrecisionFormat],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getShaderPrecisionFormat], args:[35633,36340], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj218] -> prop:[rangeMin],ret:[31]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj218] -> prop:[rangeMax],ret:[30]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj218] -> prop:[precision],ret:[0]} 
+{get|obj:[context_webgl_173] -> prop:[getShaderPrecisionFormat],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getShaderPrecisionFormat], args:[35633,36339], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj219] -> prop:[rangeMin],ret:[31]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj219] -> prop:[rangeMax],ret:[30]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj219] -> prop:[precision],ret:[0]} 
+{get|obj:[context_webgl_173] -> prop:[getShaderPrecisionFormat],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getShaderPrecisionFormat], args:[35632,36338], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj220] -> prop:[rangeMin],ret:[127]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj220] -> prop:[rangeMax],ret:[127]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj220] -> prop:[precision],ret:[23]} 
+{get|obj:[context_webgl_173] -> prop:[getShaderPrecisionFormat],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getShaderPrecisionFormat], args:[35632,36337], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj221] -> prop:[rangeMin],ret:[127]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj221] -> prop:[rangeMax],ret:[127]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj221] -> prop:[precision],ret:[23]} 
+{get|obj:[context_webgl_173] -> prop:[getShaderPrecisionFormat],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getShaderPrecisionFormat], args:[35632,36336], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj222] -> prop:[rangeMin],ret:[127]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj222] -> prop:[rangeMax],ret:[127]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj222] -> prop:[precision],ret:[23]} 
+{get|obj:[context_webgl_173] -> prop:[getShaderPrecisionFormat],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getShaderPrecisionFormat], args:[35632,36341], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj223] -> prop:[rangeMin],ret:[31]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj223] -> prop:[rangeMax],ret:[30]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj223] -> prop:[precision],ret:[0]} 
+{get|obj:[context_webgl_173] -> prop:[getShaderPrecisionFormat],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getShaderPrecisionFormat], args:[35632,36340], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj224] -> prop:[rangeMin],ret:[31]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj224] -> prop:[rangeMax],ret:[30]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj224] -> prop:[precision],ret:[0]} 
+{get|obj:[context_webgl_173] -> prop:[getShaderPrecisionFormat],type:[[object Function]]} 
+{apply|function:[context_webgl_173.getShaderPrecisionFormat], args:[35632,36339], type:[[object Object]]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj225] -> prop:[rangeMin],ret:[31]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj225] -> prop:[rangeMax],ret:[30]} 
+{get|obj:[context_webgl_173.getShaderPrecisionFormat_obj225] -> prop:[precision],ret:[0]} 
+{get|obj:[navigator] -> prop:[hardwareConcurrency],ret:[8]} 
+{get|obj:[navigator] -> prop:[cpuClass],ret:[undefined]} 
+{get|obj:[navigator] -> prop:[oscpu],ret:[undefined]} 
+{get|obj:[navigator] -> prop:[platform],ret:[MacIntel]} 
+{get|obj:[navigator] -> prop:[appName],ret:[Netscape]} 
+{get|obj:[navigator] -> prop:[productSub],ret:[20030107]} 
+{get|obj:[navigator] -> prop:[product],ret:[Gecko]} 
+{get|obj:[navigator] -> prop:[plugins],type:[[object PluginArray]]} 
+{get|obj:[pluginArray_4] -> prop:[length],ret:[5]} 
+{get|obj:[pluginArray_4] -> prop:[0],type:[[object Plugin]]} 
+{get|obj:[plugin_0] -> prop:[name],ret:[PDF Viewer]} 
+{get|obj:[plugin_0] -> prop:[description],ret:[Portable Document Format]} 
+{get|obj:[plugin_0] -> prop:[filename],ret:[internal-pdf-viewer]} 
+{get|obj:[plugin_0] -> prop:[version],ret:[undefined]} 
+{get|obj:[pluginArray_4] -> prop:[length],ret:[5]} 
+{get|obj:[pluginArray_4] -> prop:[1],type:[[object Plugin]]} 
+{get|obj:[plugin_5] -> prop:[name],ret:[Chrome PDF Viewer]} 
+{get|obj:[plugin_5] -> prop:[description],ret:[Portable Document Format]} 
+{get|obj:[plugin_5] -> prop:[filename],ret:[internal-pdf-viewer]} 
+{get|obj:[plugin_5] -> prop:[version],ret:[undefined]} 
+{get|obj:[pluginArray_4] -> prop:[length],ret:[5]} 
+{get|obj:[pluginArray_4] -> prop:[2],type:[[object Plugin]]} 
+{get|obj:[plugin_8] -> prop:[name],ret:[Chromium PDF Viewer]} 
+{get|obj:[plugin_8] -> prop:[description],ret:[Portable Document Format]} 
+{get|obj:[plugin_8] -> prop:[filename],ret:[internal-pdf-viewer]} 
+{get|obj:[plugin_8] -> prop:[version],ret:[undefined]} 
+{get|obj:[pluginArray_4] -> prop:[length],ret:[5]} 
+{get|obj:[pluginArray_4] -> prop:[3],type:[[object Plugin]]} 
+{get|obj:[plugin_11] -> prop:[name],ret:[Microsoft Edge PDF Viewer]} 
+{get|obj:[plugin_11] -> prop:[description],ret:[Portable Document Format]} 
+{get|obj:[plugin_11] -> prop:[filename],ret:[internal-pdf-viewer]} 
+{get|obj:[plugin_11] -> prop:[version],ret:[undefined]} 
+{get|obj:[pluginArray_4] -> prop:[length],ret:[5]} 
+{get|obj:[pluginArray_4] -> prop:[4],type:[[object Plugin]]} 
+{get|obj:[plugin_14] -> prop:[name],ret:[WebKit built-in PDF]} 
+{get|obj:[plugin_14] -> prop:[description],ret:[Portable Document Format]} 
+{get|obj:[plugin_14] -> prop:[filename],ret:[internal-pdf-viewer]} 
+{get|obj:[plugin_14] -> prop:[version],ret:[undefined]} 
+{get|obj:[pluginArray_4] -> prop:[length],ret:[5]} 
+{get|obj:[navigator] -> prop:[mimeTypes],type:[[object MimeTypeArray]]} 
+{get|obj:[mimeTypeArray_2] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_2] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_1] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_1] -> prop:[suffixes],ret:[pdf]} 
+{get|obj:[mimeType_1] -> prop:[description],ret:[Portable Document Format]} 
+{get|obj:[mimeTypeArray_2] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_2] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_3] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_3] -> prop:[suffixes],ret:[pdf]} 
+{get|obj:[mimeType_3] -> prop:[description],ret:[Portable Document Format]} 
+{get|obj:[mimeTypeArray_2] -> prop:[length],ret:[2]} 
+{get|obj:[window] -> prop:[Intl],type:[[object Intl]]} 
+{get|obj:[window.Intl] -> prop:[DateTimeFormat],type:[[object Function]]} 
+{get|obj:[window.Intl.DateTimeFormat] -> prop:[prototype],type:[[object Intl.DateTimeFormat]]} 
+{construct|function:[window.Intl.DateTimeFormat], type:[[object Intl.DateTimeFormat]]} 
+{get|obj:[document] -> prop:[createElement],type:[[object Function]]} 
+{apply|function:[document.createElement], args:[audio], type:[[object HTMLAudioElement]]} 
+{get|obj:[Document_createElement_audio_226] -> prop:[canPlayType],type:[[object Function]]} 
+{get|obj:[Document_createElement_audio_226] -> prop:[canPlayType],type:[[object Function]]} 
+{get|obj:[Document_createElement_audio_226.canPlayType] -> prop:[valueOf],type:[[object Function]]} 
+{apply|function:[Document_createElement_audio_226.canPlayType.valueOf], args:[], type:[[object Function]]} 
+{get|obj:[Document_createElement_audio_226] -> prop:[canPlayType],type:[[object Function]]} 
+{apply|function:[Document_createElement_audio_226.canPlayType], args:[audio/ogg; codecs="vorbis"], result:[probably]} 
+{get|obj:[Document_createElement_audio_226] -> prop:[canPlayType],type:[[object Function]]} 
+{apply|function:[Document_createElement_audio_226.canPlayType], args:[audio/wav; codecs="1"], result:[probably]} 
+{get|obj:[Document_createElement_audio_226] -> prop:[canPlayType],type:[[object Function]]} 
+{apply|function:[Document_createElement_audio_226.canPlayType], args:[audio/mpeg;], result:[probably]} 
+{get|obj:[Document_createElement_audio_226] -> prop:[canPlayType],type:[[object Function]]} 
+{apply|function:[Document_createElement_audio_226.canPlayType], args:[audio/x-m4a;audio/aac;], result:[maybe]} 
+{get|obj:[document] -> prop:[createElement],type:[[object Function]]} 
+{apply|function:[document.createElement], args:[video], type:[[object HTMLVideoElement]]} 
+{get|obj:[Document_createElement_video_229] -> prop:[canPlayType],type:[[object Function]]} 
+{get|obj:[Document_createElement_video_229] -> prop:[canPlayType],type:[[object Function]]} 
+{get|obj:[Document_createElement_audio_226.canPlayType] -> prop:[valueOf],type:[[object Function]]} 
+{apply|function:[Document_createElement_audio_226.canPlayType.valueOf], args:[], type:[[object Function]]} 
+{get|obj:[Document_createElement_video_229] -> prop:[canPlayType],type:[[object Function]]} 
+{apply|function:[Document_createElement_audio_226.canPlayType], args:[video/ogg; codecs="theora"], result:[probably]} 
+{get|obj:[Document_createElement_video_229] -> prop:[canPlayType],type:[[object Function]]} 
+{apply|function:[Document_createElement_audio_226.canPlayType], args:[video/mp4; codecs="avc1.42E01E"], result:[probably]} 
+{get|obj:[Document_createElement_video_229] -> prop:[canPlayType],type:[[object Function]]} 
+{apply|function:[Document_createElement_audio_226.canPlayType], args:[video/webm; codecs="vp8, vorbis"], result:[probably]} 
+{get|obj:[Document_createElement_video_229] -> prop:[canPlayType],type:[[object Function]]} 
+{apply|function:[Document_createElement_audio_226.canPlayType], args:[video/mp4; codecs="mp4v.20.8, mp4a.40.2"], result:[]} 
+{get|obj:[Document_createElement_video_229] -> prop:[canPlayType],type:[[object Function]]} 
+{apply|function:[Document_createElement_audio_226.canPlayType], args:[video/mp4; codecs="mp4v.20.240, mp4a.40.2"], result:[]} 
+{get|obj:[Document_createElement_video_229] -> prop:[canPlayType],type:[[object Function]]} 
+{apply|function:[Document_createElement_audio_226.canPlayType], args:[video/x-matroska; codecs="theora, vorbis"], result:[]} 
+{get|obj:[window] -> prop:[matchMedia],type:[[object Function]]} 
+{get|obj:[window] -> prop:[matchMedia],type:[[object Function]]} 
+{get|obj:[window.matchMedia] -> prop:[valueOf],type:[[object Function]]} 
+{apply|function:[Document_createElement_audio_226.canPlayType.valueOf], args:[], type:[[object Function]]} 
+{get|obj:[window] -> prop:[matchMedia],type:[[object Function]]} 
+{apply|function:[window.matchMedia], args:[(any-pointer: fine )], type:[[object MediaQueryList]]} 
+{get|obj:[mediaQueryList_233] -> prop:[matches],ret:[false]} 
+{get|obj:[window] -> prop:[matchMedia],type:[[object Function]]} 
+{apply|function:[window.matchMedia], args:[(any-pointer: coarse )], type:[[object MediaQueryList]]} 
+{get|obj:[mediaQueryList_235] -> prop:[matches],ret:[false]} 
+{get|obj:[window] -> prop:[matchMedia],type:[[object Function]]} 
+{apply|function:[window.matchMedia], args:[(any-pointer: none )], type:[[object MediaQueryList]]} 
+{get|obj:[mediaQueryList_237] -> prop:[matches],ret:[false]} 
+{get|obj:[window] -> prop:[matchMedia],type:[[object Function]]} 
+{apply|function:[window.matchMedia], args:[(any-pointer )], type:[[object MediaQueryList]]} 
+{get|obj:[mediaQueryList_239] -> prop:[matches],ret:[false]} 
+{get|obj:[window] -> prop:[matchMedia],type:[[object Function]]} 
+{apply|function:[window.matchMedia], args:[(any-hover: hover )], type:[[object MediaQueryList]]} 
+{get|obj:[mediaQueryList_241] -> prop:[matches],ret:[false]} 
+{get|obj:[window] -> prop:[matchMedia],type:[[object Function]]} 
+{apply|function:[window.matchMedia], args:[(any-hover: on-demand )], type:[[object MediaQueryList]]} 
+{get|obj:[mediaQueryList_243] -> prop:[matches],ret:[false]} 
+{get|obj:[window] -> prop:[matchMedia],type:[[object Function]]} 
+{apply|function:[window.matchMedia], args:[(any-hover: none )], type:[[object MediaQueryList]]} 
+{get|obj:[mediaQueryList_245] -> prop:[matches],ret:[false]} 
+{get|obj:[window] -> prop:[matchMedia],type:[[object Function]]} 
+{apply|function:[window.matchMedia], args:[(any-hover )], type:[[object MediaQueryList]]} 
+{get|obj:[mediaQueryList_247] -> prop:[matches],ret:[false]} 
+{get|obj:[window] -> prop:[matchMedia],type:[[object Function]]} 
+{apply|function:[window.matchMedia], args:[(color-gamut: srgb )], type:[[object MediaQueryList]]} 
+{get|obj:[mediaQueryList_249] -> prop:[matches],ret:[false]} 
+{get|obj:[window] -> prop:[matchMedia],type:[[object Function]]} 
+{apply|function:[window.matchMedia], args:[(color-gamut: p3 )], type:[[object MediaQueryList]]} 
+{get|obj:[mediaQueryList_251] -> prop:[matches],ret:[false]} 
+{get|obj:[window] -> prop:[matchMedia],type:[[object Function]]} 
+{apply|function:[window.matchMedia], args:[(color-gamut: rec2020 )], type:[[object MediaQueryList]]} 
+{get|obj:[mediaQueryList_253] -> prop:[matches],ret:[false]} 
+{get|obj:[window] -> prop:[matchMedia],type:[[object Function]]} 
+{apply|function:[window.matchMedia], args:[(color-gamut )], type:[[object MediaQueryList]]} 
+{get|obj:[mediaQueryList_255] -> prop:[matches],ret:[false]} 
+{get|obj:[navigator] -> prop:[maxTouchPoints],ret:[0]} 
+{get|obj:[navigator] -> prop:[maxTouchPoints],ret:[0]} 
+{get|obj:[document] -> prop:[createEvent],type:[[object Function]]} 
+{apply|function:[document.createEvent],error:[Failed to execute 'createEvent' on 'Document': The provided event type ('TouchEvent') is invalid.]} 
+{get|obj:[window] -> prop:[WebSocket],type:[[object Function]]} 
+{get|obj:[window.WebSocket] -> prop:[prototype],type:[[object WebSocket]]} 
+{construct|function:[window.WebSocket],error:[Failed to construct 'WebSocket': 1 argument required, but only 0 present.]} 
+{get|obj:[navigator] -> prop:[doNotTrack],ret:[null]} 
+{get|obj:[navigator] -> prop:[msDoNotTrack],ret:[undefined]} 
+{get|obj:[window] -> prop:[doNotTrack],ret:[undefined]} 
+{get|obj:[window] -> prop:[AudioTrackList],ret:[undefined]} 
+{get|obj:[window] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[AudioTrackList], result:[false]} 
+{get|obj:[window] -> prop:[defaultStatus],ret:[undefined]} 
+{get|obj:[window] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[defaultStatus], result:[false]} 
+{get|obj:[window] -> prop:[Object],type:[[object Function]]} 
+{get|obj:[window.Object] -> prop:[setPrototypeOf],type:[[object Function]]} 
+{get|obj:[window] -> prop:[taobrowser_Event],ret:[undefined]} 
+{get|obj:[window] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[taobrowser_Event], result:[false]} 
+{get|obj:[window] -> prop:[webkitRequestFileSystem],type:[[object Function]]} 
+{get|obj:[window] -> prop:[onoperadetachedviewchange],ret:[undefined]} 
+{get|obj:[window] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[onoperadetachedviewchange], result:[false]} 
+{get|obj:[window] -> prop:[Path2D],type:[[object Function]]} 
+{get|obj:[window.Path2D] -> prop:[prototype],type:[[object Path2D]]} 
+{get|obj:[window.Path2D.prototype] -> prop:[addPath],type:[[object Function]]} 
+{get|obj:[window] -> prop:[SourceBuffer],type:[[object Function]]} 
+{get|obj:[window.SourceBuffer] -> prop:[prototype],type:[[object SourceBuffer]]} 
+{get|obj:[window.SourceBuffer.prototype] -> prop:[changeType],type:[[object Function]]} 
+{get|obj:[window] -> prop:[weatherBridge],ret:[undefined]} 
+{get|obj:[window] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[weatherBridge], result:[false]} 
+{get|obj:[window] -> prop:[chrome],type:[[object Object]]} 
+{get|obj:[window.chrome] -> prop:[csi],type:[[object Function]]} 
+{get|obj:[window] -> prop:[password_manager_enabled],ret:[undefined]} 
+{get|obj:[window] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[password_manager_enabled], result:[false]} 
+{get|obj:[document] -> prop:[body],ret:[null]} 
+{get|obj:[window] -> prop:[external],type:[[object External]]} 
+{get|obj:[window.external] -> prop:[AddFavorite],ret:[undefined]} 
+{get|obj:[window.external] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[AddFavorite], result:[false]} 
+{get|obj:[window] -> prop:[SogouLoginUtils],ret:[undefined]} 
+{get|obj:[window] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[SogouLoginUtils], result:[false]} 
+{get|obj:[window] -> prop:[SourceBuffer],type:[[object Function]]} 
+{get|obj:[window] -> prop:[showModalDialog],ret:[undefined]} 
+{get|obj:[window] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[showModalDialog], result:[false]} 
+{get|obj:[document] -> prop:[selection],ret:[undefined]} 
+{get|obj:[window] -> prop:[SVGPatternElement],type:[[object Function]]} 
+{get|obj:[window.SVGPatternElement] -> prop:[SVG_UNIT_TYPE_OBJECTBOUNDINGBOX],ret:[undefined]} 
+{get|obj:[window.SVGPatternElement] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[SVG_UNIT_TYPE_OBJECTBOUNDINGBOX], result:[false]} 
+{get|obj:[document] -> prop:[onselectionchange],ret:[null]} 
+{get|obj:[document] -> prop:[body],ret:[null]} 
+{get|obj:[document] -> prop:[documentElement],type:[[object HTMLHtmlElement]]} 
+{get|obj:[html_257] -> prop:[onresize],ret:[null]} 
+{get|obj:[window] -> prop:[CanvasRenderingContext2D],type:[[object Function]]} 
+{get|obj:[window.CanvasRenderingContext2D] -> prop:[prototype],type:[[object CanvasRenderingContext2D]]} 
+{get|obj:[window.CanvasRenderingContext2D.prototype] -> prop:[webkitGetImageDataHD],ret:[undefined]} 
+{get|obj:[window.CanvasRenderingContext2D.prototype] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[webkitGetImageDataHD], result:[false]} 
+{get|obj:[window] -> prop:[UCWebExt],ret:[undefined]} 
+{get|obj:[window] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[UCWebExt], result:[false]} 
+{get|obj:[window] -> prop:[CDATASection],type:[[object Function]]} 
+{get|obj:[window.CDATASection] -> prop:[prototype],type:[[object CDATASection]]} 
+{get|obj:[window.CDATASection.prototype] -> prop:[remove],type:[[object Function]]} 
+{get|obj:[window] -> prop:[BlobDownloadCallback],ret:[undefined]} 
+{get|obj:[window] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[BlobDownloadCallback], result:[false]} 
+{get|obj:[window] -> prop:[_WXJS],ret:[undefined]} 
+{get|obj:[window] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[_WXJS], result:[false]} 
+{get|obj:[document] -> prop:[msCapsLockWarningOff],ret:[undefined]} 
+{get|obj:[document] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[msCapsLockWarningOff], result:[false]} 
+{get|obj:[window] -> prop:[CSSCharsetRule],ret:[undefined]} 
+{get|obj:[window] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[CSSCharsetRule], result:[false]} 
+{get|obj:[document] -> prop:[scrollingElement],type:[[object HTMLHtmlElement]]} 
+{get|obj:[Document_scrollingElement_258] -> prop:[style],type:[[object CSSStyleDeclaration]]} 
+{get|obj:[style_259] -> prop:[fontVariantNumeric],ret:[]} 
+{get|obj:[window] -> prop:[Function],type:[[object Function]]} 
+{get|obj:[window.Function] -> prop:[prototype],type:[[object Function]]} 
+{get|obj:[window] -> prop:[chrome],type:[[object Object]]} 
+{get|obj:[window.chrome] -> prop:[app],type:[[object Object]]} 
+{get|obj:[window.chrome.app] -> prop:[InstallState],type:[[object Object]]} 
+{get|obj:[window] -> prop:[isNodeWhitespace],ret:[undefined]} 
+{get|obj:[window] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[isNodeWhitespace], result:[false]} 
+{get|obj:[window] -> prop:[Object],type:[[object Function]]} 
+{get|obj:[window.Object] -> prop:[seal],type:[[object Function]]} 
+{get|obj:[document] -> prop:[defaultCharset],ret:[undefined]} 
+{get|obj:[document] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[defaultCharset], result:[false]} 
+{get|obj:[window] -> prop:[__firefox__],ret:[undefined]} 
+{get|obj:[window] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[__firefox__], result:[false]} 
+{get|obj:[window] -> prop:[onmessage],ret:[null]} 
+{get|obj:[window] -> prop:[__sogou_secure_input],ret:[undefined]} 
+{get|obj:[window] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[__sogou_secure_input], result:[false]} 
+{get|obj:[window] -> prop:[CloseEvent],type:[[object Function]]} 
+{get|obj:[window.CloseEvent] -> prop:[prototype],type:[[object Object]]} 
+{get|obj:[window.CloseEvent.prototype] -> prop:[initCloseEvent],ret:[undefined]} 
+{get|obj:[window.CloseEvent.prototype] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[initCloseEvent], result:[false]} 
+{get|obj:[window] -> prop:[getMatchedCSSRules],ret:[undefined]} 
+{get|obj:[window] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[getMatchedCSSRules], result:[false]} 
+{get|obj:[window] -> prop:[Notification],type:[[object Function]]} 
+{get|obj:[window] -> prop:[HTMLFrameSetElement],type:[[object Function]]} 
+{get|obj:[window.HTMLFrameSetElement] -> prop:[prototype],type:[[object HTMLFrameSetElement]]} 
+{get|obj:[window.HTMLFrameSetElement.prototype] -> prop:[hasPointerCapture],type:[[object Function]]} 
+{get|obj:[document] -> prop:[body],ret:[null]} 
+{get|obj:[window] -> prop:[OffscreenCanvasRenderingContext2D],type:[[object Function]]} 
+{get|obj:[window] -> prop:[chrome],type:[[object Object]]} 
+{get|obj:[window] -> prop:[Object],type:[[object Function]]} 
+{get|obj:[window.Object] -> prop:[prototype],ret:[[object Object]]} 
+{get|obj:[document] -> prop:[fileCreatedDate],ret:[undefined]} 
+{get|obj:[document] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[fileCreatedDate], result:[false]} 
+{get|obj:[window] -> prop:[webkitAudioContext],ret:[undefined]} 
+{get|obj:[window] -> prop:[GetPerfTests],ret:[undefined]} 
+{get|obj:[window] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[GetPerfTests], result:[false]} 
+{get|obj:[window] -> prop:[MediaController],ret:[undefined]} 
+{get|obj:[window] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[MediaController], result:[false]} 
+{get|obj:[window] -> prop:[external],type:[[object External]]} 
+{get|obj:[window.external] -> prop:[IsSearchProviderInstalled],type:[[object Function]]} 
+{get|obj:[window] -> prop:[TextTrackList],type:[[object Function]]} 
+{get|obj:[window.TextTrackList] -> prop:[prototype],type:[[object TextTrackList]]} 
+{get|obj:[window.TextTrackList.prototype] -> prop:[getTrackById],type:[[object Function]]} 
+{get|obj:[document] -> prop:[selection],ret:[undefined]} 
+{get|obj:[document] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[selection], result:[false]} 
+{get|obj:[document] -> prop:[body],ret:[null]} 
+{get|obj:[document] -> prop:[body],ret:[null]} 
+{get|obj:[window] -> prop:[ScreenOrientation],type:[[object Function]]} 
+{get|obj:[document] -> prop:[body],ret:[null]} 
+{get|obj:[window] -> prop:[SpeechSynthesisUtterance],type:[[object Function]]} 
+{get|obj:[window] -> prop:[onerror],ret:[null]} 
+{get|obj:[window] -> prop:[WebKitFlags],ret:[undefined]} 
+{get|obj:[window] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[WebKitFlags], result:[false]} 
+{get|obj:[window] -> prop:[ReaderModeArticlePage],ret:[undefined]} 
+{get|obj:[window] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[ReaderModeArticlePage], result:[false]} 
+{get|obj:[window] -> prop:[__opera],ret:[undefined]} 
+{get|obj:[window] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[__opera], result:[false]} 
+{get|obj:[window] -> prop:[PerformancePaintTiming],type:[[object Function]]} 
+{get|obj:[window] -> prop:[performance],type:[[object Performance]]} 
+{get|obj:[document] -> prop:[body],ret:[null]} 
+{get|obj:[document] -> prop:[body],ret:[null]} 
+{get|obj:[window] -> prop:[SVGGraphicsElement],type:[[object Function]]} 
+{get|obj:[window.SVGGraphicsElement] -> prop:[prototype],type:[[object Object]]} 
+{get|obj:[window.SVGGraphicsElement.prototype] -> prop:[mozRequestPointerLock],ret:[undefined]} 
+{get|obj:[window.SVGGraphicsElement.prototype] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[mozRequestPointerLock], result:[false]} 
+{get|obj:[window] -> prop:[ClickData],ret:[undefined]} 
+{get|obj:[window] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[ClickData], result:[false]} 
+{get|obj:[window] -> prop:[MediaEncryptedEvent],type:[[object Function]]} 
+{get|obj:[window] -> prop:[__$_qihoo360_$__],ret:[undefined]} 
+{get|obj:[window] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[__$_qihoo360_$__], result:[false]} 
+{get|obj:[document] -> prop:[onmousemove],ret:[null]} 
+{get|obj:[window] -> prop:[BeforeInstallPromptEvent],type:[[object Function]]} 
+{get|obj:[window.BeforeInstallPromptEvent] -> prop:[prototype],type:[[object Object]]} 
+{get|obj:[window.BeforeInstallPromptEvent.prototype] -> prop:[KEYUP],ret:[undefined]} 
+{get|obj:[window.BeforeInstallPromptEvent.prototype] -> prop:[hasOwnProperty],type:[[object Function]]} 
+{apply|function:[window.hasOwnProperty], args:[KEYUP], result:[false]} 
+{get|obj:[window] -> prop:[HTMLFrameSetElement],type:[[object Function]]} 
+{get|obj:[window.HTMLFrameSetElement] -> prop:[prototype],type:[[object HTMLFrameSetElement]]} 
+{get|obj:[window.HTMLFrameSetElement.prototype] -> prop:[webkitRequestFullScreen],type:[[object Function]]} 
+{get|obj:[window] -> prop:[external],type:[[object External]]} 
+[window_locationbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+{get|obj:[window] -> prop:[locationbar],ret:[undefined]} 
+[window_menubar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+{get|obj:[window] -> prop:[menubar],ret:[undefined]} 
+[window_personalbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+{get|obj:[window] -> prop:[personalbar],ret:[undefined]} 
+[window_scrollbars_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+{get|obj:[window] -> prop:[scrollbars],ret:[undefined]} 
+[window_statusbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+{get|obj:[window] -> prop:[statusbar],ret:[undefined]} 
+[window_toolbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+{get|obj:[window] -> prop:[toolbar],ret:[undefined]} 
+{get|obj:[window] -> prop:[devicePixelRatio],ret:[2]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[brave],ret:[undefined]} 
+{get|obj:[navigator] -> prop:[vibrate],type:[[object Function]]} 
+{get|obj:[navigator] -> prop:[vibrate],type:[[object Function]]} 
+{get|obj:[navigator] -> prop:[locks],ret:[undefined]} 
+{get|obj:[navigator] -> prop:[language],ret:[zh-CN]} 
+{get|obj:[window] -> prop:[screen],type:[[object Screen]]} 
+{get|obj:[window.screen] -> prop:[availHeight],ret:[900]} 
+{get|obj:[window.screen] -> prop:[availLeft],ret:[0]} 
+{get|obj:[window.screen] -> prop:[availTop],ret:[0]} 
+{get|obj:[window.screen] -> prop:[availWidth],ret:[1440]} 
+{get|obj:[window.screen] -> prop:[colorDepth],ret:[30]} 
+{get|obj:[window.screen] -> prop:[height],ret:[900]} 
+{get|obj:[window.screen] -> prop:[width],ret:[1440]} 
+{get|obj:[window.screen] -> prop:[pixelDepth],ret:[30]} 
+setTimeout|0|func 事件正在执行 > _$eK 
+{get|obj:[document] -> prop:[visibilityState],ret:[hidden]} 
+{set|obj:[localStorage] -> prop:[_$rc],value:[vcxHzEcqGEcqGEcqnmxfztwZKiKLYK31NwjBzUTP_08CrEK.yTS.ZdfMj2wrfq74jKEsqrEwNxO.Fzycy12tal7NXm6iWoSpnSMtI8ewBxlkMMKHIk3uNjXypDvS46PsHYWoviB7XHDjteGZ5ZJ_vzATZwcuf9xETU65VZf01Wg_LoYmlQpX5y62cfNb1DQDbqPdF928WPwjqHmj61l1jDE4yngLhOnfMcuJHo6ouCE3p0Ra_y37s.DX7bkVf2wmdTljogRbnloXNowodf96M7i1H9Be.OshWAI7by48ZFc4OD7ebsc8L_uUHRSsEYsacFjIJvXUOpcuxnmsxycfvZ5h8Q94q2FU55mzEANl.Ei8j7VhOm6smGknUMRuaN7n2bv6ovn_I6JWwioXxLnKsv.KRGRt0R6Lovo8IAseJJtJSee84hqFvN.JdBe0T9C6Wpo1Qw7lKxLrv0x8qeDAhEmA7CJduvGISjbEisFKxVPDswzjVdG8kERtveXi5J4l.FH2cTGBTop42ActqjckRlnWxzlkAxoXhB5QN5kjAaL2EbDzs783.s1ftSNQG4q5n9iJsw5JhI5_MjLkGr4alsWEcBG]} 
+setInterval|1000|func 事件正在执行 > _$h3 
+{get|obj:[document] -> prop:[cookie],ret:[enable_1EzPGwRUoQaW=true; 1EzPGwRUoQaWT=Idddd6ddddedddddIddddn0CrsGxMw48Ermeul38WWody9ZuP6uxuXMw_vRl9W0PU6PadiRzt8NrcBk7rnMUj0rYEQ_poIYCUW1gAiiHMqt0qi_bRWJZqpFyS6B2NXqootJ2p1QU0U7K9RfnkUUSmJDDYFC06N5mMQVyz0c6JLONnqKKcjGs1OUVbKETEmRSC0rbrEw6Rdjf6QOsoPIg_PUZ3IagvS4U0qHDQlwHdb0; ]} 
+enable_1EzPGwRUoQaW=true; 1EzPGwRUoQaWT=Idddd6ddddedddddIddddn0CrsGxMw48Ermeul38WWody9ZuP6uxuXMw_vRl9W0PU6PadiRzt8NrcBk7rnMUj0rYEQ_poIYCUW1gAiiHMqt0qi_bRWJZqpFyS6B2NXqootJ2p1QU0U7K9RfnkUUSmJDDYFC06N5mMQVyz0c6JLONnqKKcjGs1OUVbKETEmRSC0rbrEw6Rdjf6QOsoPIg_PUZ3IagvS4U0qHDQlwHdb0;  

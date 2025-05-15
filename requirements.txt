@@ -1,0 +1,4 @@
+# Note: These requirements are also specified in pyproject.toml
+# This file is kept for development environment setup and compatibility
+playwright==1.43.0
+DrissionPage==4.1.0.18

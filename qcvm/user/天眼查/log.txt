@@ -1,0 +1,168 @@
+[object Window].addEventListener(unload|_$af) > 正在注册 
+setInterval(_$h3,5000) 正在注册 
+setTimeout(_$h3,0) 正在注册 
+[object Window].addEventListener(load|_$h3) > 正在注册 
+[object Window].addEventListener(popstate|_$aQ) > 正在注册 
+Document_cookie_set: [value:enable_1EzPGwRUoQaW=true, length:24] 
+[window_customElements_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_history_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_navigation_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_locationbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_menubar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_personalbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_scrollbars_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_statusbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_toolbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_frames_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_visualViewport_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_styleMedia_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_trustedTypes_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_scheduler_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_caches_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_cookieStore_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_launchQueue_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_speechSynthesis_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_customElements_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_history_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_navigation_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_locationbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_menubar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_personalbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_scrollbars_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_statusbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_toolbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_frames_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_visualViewport_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_styleMedia_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_trustedTypes_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_scheduler_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_caches_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_cookieStore_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_launchQueue_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_speechSynthesis_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[object HTMLDocument].addEventListener(driver-evaluate|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(webdriver-evaluate|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(selenium-evaluate|_$h3) > 正在注册 
+[object Window].addEventListener(error|_$h3) > 正在注册 
+setInterval(_$h3,2000) 正在注册 
+setInterval(_$h3,1500) 正在注册 
+setInterval(_$h3,2047) 正在注册 
+Document_all_get  ret:[object HTMLAllCollection]  len:3 
+Document_all_get  ret:[object HTMLAllCollection]  len:3 
+setTimeout(_$eK,0) 正在注册 
+Document_cookie_set: [value:1EzPGwRUoQaWT=Idddd6ddddedddddIddddgW1Nn4L5xa6wA5wO0pGnsgM16oqP4O8goCV09.IFO9fPNxAr0Ctl6lxMQ2vnHqMLeEwoFc1.XihJBhP7wI0rnVJhB.4lWY17t3CnYFGwtMDD09T4k4HXN1OH19DHdbXm0tjFybUpfGy.cESIVmZkBoSYNP9RfRSrCmV0mIm_.0jT8ZGJp2Tkvd3vXp5u5fOkGwGOIVhC5qIaM1nU3nndNL; path=/; expires=Tue, 01 Nov 2022 02:57:46 GMT, length:296] 
+setInterval(_$h3,1000) 正在注册 
+[object HTMLDocument].addEventListener(contextmenu|_$eB) > 正在注册 
+Document_createElement 正在创建[a]标签 
+setTimeout|0|func 事件正在执行 > _$h3 
+[object Window] addEventListener load 事件正在执行 > _$h3 
+setTimeout(_$h3,0) 正在注册 
+Document_cookie_set: [value:enable_1EzPGwRUoQaW=true; expires=Tue, 25 Oct 2022 02:56:06 GMT, length:63] 
+Document_all_get  ret:[object HTMLAllCollection]  len:6 
+Document_all_get  ret:[object HTMLAllCollection]  len:6 
+Document_cookie_set: [value:1EzPGwRUoQaWT=Idddd6ddddedddddIddddabo2XzzpocJAso7CkwqRVbkrer9lzW6wscbbgNarUiI3qCHSTRE0VdOnCj.8zo36iyhipgOfJR1rIIHuMvA__T_.BRn59_C6awunXQBNBUi8ZEJiM20JWy1YYLg4qDQQAqbTpUN6h6BP23LAzN5.fTYYfV0ZUTkglQX9rr22Ey89tAHnaiMfkU3rrzpkNiTg5wco58g9VPlN7o15Jm2ZPQ; path=/; expires=Tue, 01 Nov 2022 02:57:46 GMT, length:296] 
+[object HTMLDocument].addEventListener(keydown|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(touchend|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(click|_$h3) > 正在注册 
+setInterval(_$h3,50000) 正在注册 
+setTimeout(_$h3,0) 正在注册 
+[window_customElements_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_history_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_navigation_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_locationbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_menubar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_personalbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_scrollbars_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_statusbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_toolbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_frames_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_visualViewport_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_styleMedia_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_trustedTypes_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_scheduler_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_caches_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_cookieStore_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_launchQueue_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_speechSynthesis_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_customElements_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_history_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_navigation_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_locationbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_menubar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_personalbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_scrollbars_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_statusbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_toolbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_frames_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_visualViewport_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_styleMedia_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_trustedTypes_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_scheduler_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_caches_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_cookieStore_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_launchQueue_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_speechSynthesis_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+Document_all_get  ret:[object HTMLAllCollection]  len:9 
+Document_all_get  ret:[object HTMLAllCollection]  len:9 
+[object HTMLDocument].addEventListener(mousedown|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(mouseup|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(mousemove|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(keydown|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(touchstart|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(touchmove|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(touchend|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(click|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(input|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(scroll|_$h3) > 正在注册 
+setTimeout(_$h3,0) 正在注册 
+[object HTMLDocument].addEventListener(mousemove|_$h3) > 正在注册 
+[object HTMLDocument].addEventListener(mousedown|_$_F) > 正在注册 
+[object HTMLDocument].addEventListener(mouseup|_$df) > 正在注册 
+[object HTMLHtmlElement].addEventListener(mouseenter|_$b$) > 正在注册 
+[object HTMLHtmlElement].addEventListener(mouseleave|_$af) > 正在注册 
+[object HTMLDocument].addEventListener(keydown|_$bR) > 正在注册 
+[object HTMLDocument].addEventListener(keyup|_$hJ) > 正在注册 
+[object Window].addEventListener(beforeunload|_$jX) > 正在注册 
+[object HTMLDocument].addEventListener(visibilitychange|_$af) > 正在注册 
+[object HTMLDocument].addEventListener(mousedown|_$dR) > 正在注册 
+[object HTMLDocument].addEventListener(mouseup|_$ho) > 正在注册 
+[object HTMLDocument].addEventListener(mousemove|_$hM) > 正在注册 
+[object HTMLDocument].addEventListener(keydown|_$kq) > 正在注册 
+[object HTMLDocument].addEventListener(keyup|_$ew) > 正在注册 
+[object HTMLDocument].addEventListener(touchstart|_$ko) > 正在注册 
+[object HTMLDocument].addEventListener(touchmove|_$_Z) > 正在注册 
+[object HTMLDocument].addEventListener(touchend|_$he) > 正在注册 
+[object HTMLDocument].addEventListener(click|_$js) > 正在注册 
+[object HTMLDocument].addEventListener(input|_$iv) > 正在注册 
+[object HTMLDocument].addEventListener(scroll|_$$k) > 正在注册 
+setTimeout|0|func 事件正在执行 > _$eK 
+setTimeout|0|func 事件正在执行 > _$h3 
+setTimeout|0|func 事件正在执行 > _$h3 
+Document_all_get  ret:[object HTMLAllCollection]  len:12 
+Document_all_get  ret:[object HTMLAllCollection]  len:12 
+setTimeout(_$h3,0) 正在注册 
+Document_cookie_set: [value:1EzPGwRUoQaWT=Idddd6ddddedddddIddddn0CrsGxMw48Ermeul38WWody9ZuP6uxuXMw_vRl9W0PU6PadiRzt8NrcBk7rnMUj0rYEQ_poIYCUW1gAiiHMqt0qi_bRWJZqpFyS6B2NXqootJ2p1QU0U7K9RfnkUUSmJDDYFC06N5mMQVyz0c6JLONnqKKcjGs1OUVbKETEmRSC0rbrEw6Rdjf6QOsoPIg_PUZ3IagvS4U0qHDQlwHdb0; path=/; expires=Tue, 01 Nov 2022 02:57:46 GMT, length:296] 
+setTimeout|0|func 事件正在执行 > _$h3 
+setTimeout(_$eK,0) 正在注册 
+[window_locationbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_menubar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_personalbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_scrollbars_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_statusbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_toolbar_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+setTimeout|0|func 事件正在执行 > _$h3 
+setTimeout|0|func 事件正在执行 > _$eK 
+setTimeout(_$h3,0) 正在注册 
+setTimeout|0|func 事件正在执行 > _$h3 
+setInterval|1000|func 事件正在执行 > _$h3 
+[Performance_now]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+setTimeout(_$h3,0) 正在注册 
+Document_createElement 正在创建[a]标签 
+setTimeout(_$h3,0) 正在注册 
+Document_all_get  ret:[object HTMLAllCollection]  len:15 
+Document_all_get  ret:[object HTMLAllCollection]  len:15 
+Document_cookie_set: [value:1EzPGwRUoQaWT=Idddd6ddddedddddIddddS5E7Lysjk6OjHWy.Tz7OhDX9KUGq2vB.Vdg8DkDo7OAdnAr4_xKKvk1ZDrF1jkywCDm.vanC.fsD.QnsAcGhNyxJEoFi9wrJMPufUtIiNAg7fhyu5X9VsEqUDhZ9ytTFgizInysyXvjWTooiTfK3Xo2JYNbzKz45xpiGfBVByGlr22_xEwpNFiUEmh1eBYZOzQVFpNkyMtsUhEoj_3AEFEpUDJs3t0ROx6MuJnyBrZjG05bXbfzfTLJRneoD7GgYVcxp7BeYM_JOlOhXJImQdIgKljjuGqObL2LHwbPoY_HkE3Ij50HJz55ctfYjx2Pvq; path=/; expires=Tue, 01 Nov 2022 02:57:46 GMT, length:403] 
+[Performance_now]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[Performance_now]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+xmlrequest_open正在调用, url: ./modules/banner.jsp?oolWyhUK=sZJdUGlqEtWwVaZCam_pAMlAH2L612lgd6Y2PkjzDxgtMaz.cQZkEr_Zh5eO_3Ks_TRKoqiVdfucDVwtGjHnrWvBsAdkXcnc 
+./modules/banner.jsp?oolWyhUK=sZJdUGlqEtWwVaZCam_pAMlAH2L612lgd6Y2PkjzDxgtMaz.cQZkEr_Zh5eO_3Ks_TRKoqiVdfucDVwtGjHnrWvBsAdkXcnc 

@@ -1,0 +1,171 @@
+{get|obj:[mimeTypeArray_2] -> prop:[length],ret:[0]} 
+{set|obj:[mimeTypeArray_2] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_1] -> prop:[type],ret:[application/pdf]} 
+{set|obj:[plugin_0] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeTypeArray_2] -> prop:[length],ret:[1]} 
+{get|obj:[mimeTypeArray_2] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_1] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_3] -> prop:[type],ret:[text/pdf]} 
+{set|obj:[mimeTypeArray_2] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_3] -> prop:[type],ret:[text/pdf]} 
+{set|obj:[plugin_0] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[pluginArray_4] -> prop:[length],ret:[0]} 
+{set|obj:[pluginArray_4] -> prop:[0],type:[[object Plugin]]} 
+{get|obj:[plugin_0] -> prop:[name],ret:[PDF Viewer]} 
+{get|obj:[mimeTypeArray_2] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_2] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_1] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_6] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeTypeArray_2] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_3] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_6] -> prop:[type],ret:[application/pdf]} 
+{set|obj:[plugin_5] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeTypeArray_2] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_2] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_1] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_7] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeTypeArray_2] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_3] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_7] -> prop:[type],ret:[text/pdf]} 
+{set|obj:[plugin_5] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[pluginArray_4] -> prop:[length],ret:[1]} 
+{set|obj:[pluginArray_4] -> prop:[1],type:[[object Plugin]]} 
+{get|obj:[plugin_5] -> prop:[name],ret:[Chrome PDF Viewer]} 
+{get|obj:[mimeTypeArray_2] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_2] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_1] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_9] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeTypeArray_2] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_3] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_9] -> prop:[type],ret:[application/pdf]} 
+{set|obj:[plugin_8] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeTypeArray_2] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_2] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_1] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_10] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeTypeArray_2] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_3] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_10] -> prop:[type],ret:[text/pdf]} 
+{set|obj:[plugin_8] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[pluginArray_4] -> prop:[length],ret:[2]} 
+{set|obj:[pluginArray_4] -> prop:[2],type:[[object Plugin]]} 
+{get|obj:[plugin_8] -> prop:[name],ret:[Chromium PDF Viewer]} 
+{get|obj:[mimeTypeArray_2] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_2] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_1] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_12] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeTypeArray_2] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_3] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_12] -> prop:[type],ret:[application/pdf]} 
+{set|obj:[plugin_11] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeTypeArray_2] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_2] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_1] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_13] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeTypeArray_2] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_3] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_13] -> prop:[type],ret:[text/pdf]} 
+{set|obj:[plugin_11] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[pluginArray_4] -> prop:[length],ret:[3]} 
+{set|obj:[pluginArray_4] -> prop:[3],type:[[object Plugin]]} 
+{get|obj:[plugin_11] -> prop:[name],ret:[Microsoft Edge PDF Viewer]} 
+{get|obj:[mimeTypeArray_2] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_2] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_1] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_15] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeTypeArray_2] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_3] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_15] -> prop:[type],ret:[application/pdf]} 
+{set|obj:[plugin_14] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeTypeArray_2] -> prop:[length],ret:[2]} 
+{get|obj:[mimeTypeArray_2] -> prop:[0],type:[[object MimeType]]} 
+{get|obj:[mimeType_1] -> prop:[type],ret:[application/pdf]} 
+{get|obj:[mimeType_16] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeTypeArray_2] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[mimeType_3] -> prop:[type],ret:[text/pdf]} 
+{get|obj:[mimeType_16] -> prop:[type],ret:[text/pdf]} 
+{set|obj:[plugin_14] -> prop:[1],type:[[object MimeType]]} 
+{get|obj:[pluginArray_4] -> prop:[length],ret:[4]} 
+{set|obj:[pluginArray_4] -> prop:[4],type:[[object Plugin]]} 
+{get|obj:[plugin_14] -> prop:[name],ret:[WebKit built-in PDF]} 
+func:Navigator_userAgentData | result:[object NavigatorUAData] | this:[object Navigator] 
+{get|obj:[navigator] -> prop:[userAgentData],type:[[object NavigatorUAData]]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[window] -> prop:[OffscreenCanvas],type:[[object Function]]} 
+{get|obj:[window.OffscreenCanvas] -> prop:[prototype],type:[[object Object]]} 
+[window_OffscreenCanvas]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+{construct|function:[window.OffscreenCanvas], argArray:[0,0] , type:[[object Object]]} 
+{get|obj:[window.OffscreenCanvas.prototype] -> prop:[getContext],ret:[undefined]} 
+{construct|function:[url], argArray:[s://g] , type:[[object URL]]} 
+[window_trustedTypes_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+[window_trustedTypes_get]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[document] -> prop:[getElementById],type:[[object Function]]} 
+{get|obj:[document] -> prop:[getElementById],type:[[object Function]]} 
+{get|obj:[Document_createElement_html_17] -> prop:[id],ret:[undefined]} 
+{get|obj:[Document_createElement_head_19] -> prop:[id],ret:[undefined]} 
+{get|obj:[Document_createElement_meta_21] -> prop:[id],ret:[undefined]} 
+{get|obj:[Document_createElement_script_23] -> prop:[id],ret:[undefined]} 
+{get|obj:[Document_createElement_script_25] -> prop:[id],ret:[undefined]} 
+{get|obj:[Document_createElement_body_27] -> prop:[id],ret:[undefined]} 
+{get|obj:[Document_createElement_script_25] -> prop:[id],ret:[undefined]} 
+{apply|function:[document.getElementById], args:[], result:[null]} 
+{get|obj:[document] -> prop:[documentElement],type:[[object HTMLHtmlElement]]} 
+{get|obj:[document] -> prop:[documentElement],type:[[object HTMLHtmlElement]]} 
+{get|obj:[navigator] -> prop:[maxTouchPoints],ret:[0]} 
+{get|obj:[navigator] -> prop:[msMaxTouchPoints],ret:[undefined]} 
+[object Window].addEventListener(test|c) > 正在注册 
+[EventTarget_removeEventListener]正在执行，错误信息: Cannot read properties of undefined (reading 'apply') 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+{get|obj:[navigator] -> prop:[userAgent],ret:[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36]} 
+[object HTMLDocument].addEventListener(readystatechange|Sja) > 正在注册 
+{get|obj:[document] -> prop:[readyState],ret:[interactive]} 
+{get|obj:[document] -> prop:[querySelector],type:[[object Function]]} 
+func:Document_querySelector | arg:[jsname="F2dlpf"] | result:[object Object] | this:[object HTMLDocument] 
+{apply|function:[document.querySelector], args:[[jsname="F2dlpf"]], type:[[object Object]]} 
+{get|obj:[document.querySelector_obj34] -> prop:[parentNode],ret:[undefined]} 
