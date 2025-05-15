@@ -4,7 +4,7 @@ from playwright.sync_api import sync_playwright
 def run(playwright):
     # 指定 Chromium 的可执行文件路径
     chromium_path = 'D:\\Users\\pfchang\\AppData\\Local\\Chromium\\Application\\chrome.exe'  # 替换为你的 Chromium 可执行文件的实际路径
-    chromium_path = 'C:\\dev\\chrome-win64\\chrome.exe'
+    # chromium_path = 'C:\\dev\\chrome-win64\\chrome.exe'
     # chromium_path = '/Applications/Chromium.app/Contents/MacOS/Chromium'  # 替换为你的 Chromium 可执行文件的实际路径
     # chromium_path = 'C:\\Program Files (x86)\\Microsoft\\Edge\\Application\msedge.exe'  # 替换为你的 Chromium 可执行文件的实际路径
 

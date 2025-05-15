@@ -2,3 +2,4 @@
 # This file is kept for development environment setup and compatibility
 playwright==1.43.0
 DrissionPage==4.1.0.18
+pyppeteer==2.0.0
