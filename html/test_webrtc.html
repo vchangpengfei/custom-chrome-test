@@ -3,7 +3,107 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    <script>
 
+        function getLocalIPAddress(callback) {
+            // 创建一个RTCPeerConnection对象
+            let rtc = new RTCPeerConnection({
+                iceServers: [
+                    {urls: "stun:stun.miwifi.com"},
+                    {urls: 'stun:stun.l.google.com:19302'},
+                    {urls: 'stun:stun1.l.google.com:19302'},
+                    {urls: 'stun:stun2.l.google.com:19302'},
+                    {urls: 'stun:stun3.l.google.com:19302'},
+                    {urls: 'stun:stun4.l.google.com:19302'},
+                ]
+            });
+            // 监听本地ice候选的事件
+            rtc.addEventListener('icecandidate', function handleCandidate(evt) {
+                if (evt.candidate) {
+                    // let ipAddress = evt.candidate.address;
+                    // 获取IP地址
+                    let ipRegex = /([0-9]{1,3}(\.[0-9]{1,3}){3})/;
+                    let match = ipRegex.exec(evt.candidate.candidate);
+                    if (match) {
+                        let ipAddress = match[1];
+                        callback(ipAddress);
+                    }
+                    // 关闭peer connection并且移除监听
+                    // rtc.close();
+                }
+            });
+
+            // 创建一个伪数据通道来触发ice事件
+            rtc.createDataChannel('');
+            // 创建并且触发offer来开始收集ice候选
+            rtc.createOffer().then(offer => rtc.setLocalDescription(offer)).catch(console.error);
+        }
+
+
+
+
+        let gevt = [];
+        let goffer;
+        function getLocalIPAddress(callback) {
+            // 创建一个RTCPeerConnection对象
+            let rtc = new RTCPeerConnection({
+                iceServers: [
+                    {urls: "stun:stun.voipbuster.com:3478"},
+                    {urls: "stun:stun.miwifi.com"},
+                    {urls: 'stun:stun.l.google.com:19302'},
+                    {urls: 'stun:stun1.l.google.com:19302'},
+                    {urls: 'stun:stun2.l.google.com:19302'},
+                    {urls: 'stun:stun3.l.google.com:19302'},
+                    {urls: 'stun:stun4.l.google.com:19302'},
+                ]
+            });
+            // 监听本地ice候选的事件
+            rtc.addEventListener('icecandidate', function handleCandidate(evt) {
+                if (evt.candidate) {
+                    let candidate_string = JSON.stringify(evt.candidate);
+                    gevt.push(evt)
+                    // let ipAddress = evt.candidate.address;
+                    // 获取IP地址
+                    let ipRegex = /([0-9]{1,3}(\.[0-9]{1,3}){3})/;
+                    let match = ipRegex.exec(candidate_string);
+                    if (match) {
+                        let ipAddress = match[1];
+                        if(! ipAddress.startsWith("192.")){callback(ipAddress);}
+                    }
+                    // 关闭peer connection并且移除监听
+                    // rtc.close();
+                    let candidate = event.candidate.candidate;
+                }
+            });
+
+            rtc.onicecandidate = e => {
+                gevt.push(e)
+                if (e.candidate) {
+                    // 直接从 Candidate 中提取 IP（如非 mDNS 掩码）
+                    const ip = e.candidate.candidate.split(' ')[4];
+                    //console.log('Detected IP:', ip);
+                    if(! ip.startsWith("192.")){console.log('Detected IP:', ip);}
+                }
+            };
+
+            // 创建一个伪数据通道来触发ice事件
+            rtc.createDataChannel('sctp');
+            // 创建并且触发offer来开始收集ice候选
+            rtc.createOffer().then(offer => {goffer=offer;rtc.setLocalDescription(offer)}).catch(console.error);
+        }
+
+
+        // 使用函数
+        getLocalIPAddress(ip => {console.log('your real IP is:', ip)});
+        // 调用函数
+        getLocalIPAddress(ip => {console.log('your real IP is:', ip)});
+
+
+
+
+
+
+    </script>
 
 </head>
 <body>
