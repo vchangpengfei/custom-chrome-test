@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        var finger={};
+        finger.cdp=false;
+        var a=new Error();
+
+        Object.defineProperty(a, 'message', {
+            get() {
+                finger.cdp = true;
+                return '';
+            }
+        });
+
+        // e.toString();
+        console.log(a);
+        alert(finger.cdp);
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

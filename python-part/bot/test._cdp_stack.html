@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        var finger={};
+        finger.cdp=false;
+        var e=new Error();
+
+        Object.defineProperty(e, 'stack', {
+            get() {
+                finger.cdp = true;
+                return '';
+            }
+        });
+        // e.toString();
+        console.log(e);
+        alert(finger.cdp);
+    </script>
+</head>
+<body>
+
+</body>
+</html>

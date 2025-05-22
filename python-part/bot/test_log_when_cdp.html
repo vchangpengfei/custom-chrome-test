@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        // Test if console.log is working with CDP
+        function detectConsoleLogStatus() {
+            // Create a unique object to log
+            const testObject = { testId: Date.now() };
+
+            // Store a reference to the original console.log
+            const originalConsoleLog = console.log;
+
+            // Flag to track if our console.log was called
+            let logWasCalled = false;
+
+            // Override console.log temporarily
+            console.log = function(...args) {
+                // Check if our test object is being logged
+                if (args.length > 0 && args[0] === testObject) {
+                    logWasCalled = true;
+                }
+                // Call the original function
+                return originalConsoleLog.apply(console, args);
+            };
+
+            try {
+                // Attempt to log our test object
+                console.log(testObject);
+
+                // If we're connected to CDP and V8Console::Log is commented out,
+                // our override might be called, but the actual logging to CDP won't happen
+
+                // Check DevTools console to see if the object appears
+                console.log("If you can see the previous object in DevTools, V8Console::Log is working");
+
+                // Return the result
+                return {
+                    logOverrideCalled: logWasCalled,
+                    // Note: This is just an indication, not a definitive test
+                    message: logWasCalled ?
+                        "console.log was called, but check DevTools to confirm if it appeared there" :
+                        "console.log appears to be completely disabled"
+                };
+            } finally {
+                // Restore the original console.log
+                console.log = originalConsoleLog;
+            }
+        }
+
+        // Run the detection
+        const result = detectConsoleLogStatus();
+        console.log(result);
+        alert(JSON.stringify(result))
+    </script>
+</head>
+<body>
+
+</body>
+</html>

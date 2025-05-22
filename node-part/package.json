@@ -1,0 +1,20 @@
+{
+  "name": "js-custom-chrome-test",
+  "version": "0.0.1",
+  "description": "js-custom-chrome-test",
+  "main": "index.js",
+  "scripts": {
+    "build:app": "webpack --config build/webpack.config.js",
+    "build:ext": "node ./build/buildExt.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pfchang@trip.com",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "1.43.0",
+    "puppeteer": "19.2.2"
+  },
+  "pnpm": {
+    "autoInstallPeers": false
+  }
+}
